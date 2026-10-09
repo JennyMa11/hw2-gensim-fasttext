@@ -2,6 +2,8 @@
 
 编程作业实验报告 | 实测日期：2026-10-07 | 所有数值由本次运行的 JSON 和逐篇预测生成。
 
+GitHub 仓库：[https://github.com/JennyMa11/hw2-gensim-fasttext](https://github.com/JennyMa11/hw2-gensim-fasttext)
+
 ## 1. 实验目标与方法
 
 本实验比较 Word2Vec 与 FastText 的中文词表示，并检验预训练向量对小样本文本分类的作用。基础部分完成近邻、词表外查询、词组余弦分析，以及嵌套的 2／4／8 类监督分类；扩展部分比较 Word2Vec 初始化，并绘制训练样本数的学习曲线。

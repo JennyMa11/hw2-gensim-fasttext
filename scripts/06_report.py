@@ -77,6 +77,9 @@ def code(text):
 
 page('Gensim 词表示学习与 fastText 文本分类',True)
 p('编程作业实验报告 | 实测日期：2026-10-07 | 所有数值由本次运行的 JSON 和逐篇预测生成。',small=True)
+repository_url='https://github.com/JennyMa11/hw2-gensim-fasttext'
+story.append(Paragraph(f'GitHub 仓库：<link href="{repository_url}" color="#176B75">{repository_url}</link>',BODY))
+md.append(f'GitHub 仓库：[{repository_url}]({repository_url})\n')
 h('1. 实验目标与方法')
 p('本实验比较 Word2Vec 与 FastText 的中文词表示，并检验预训练向量对小样本文本分类的作用。基础部分完成近邻、词表外查询、词组余弦分析，以及嵌套的 2／4／8 类监督分类；扩展部分比较 Word2Vec 初始化，并绘制训练样本数的学习曲线。')
 p('Word2Vec 为词表内的每个词学习向量；skip-gram 根据中心词预测周围词。本次使用负采样，以真实上下文为正例、按词频的 0.75 次幂采样的词为负例。窗口上限为 5，有效窗口随机缩小，高频词下采样阈值为 0.001。')
