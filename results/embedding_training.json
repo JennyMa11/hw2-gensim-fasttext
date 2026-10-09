@@ -1,0 +1,39 @@
+{
+  "word2vec": {
+    "seconds": 83.50181741593406,
+    "vocabulary": 58854,
+    "params": {
+      "sg": 1,
+      "vector_size": 100,
+      "window": 5,
+      "min_count": 3,
+      "epochs": 5,
+      "negative": 5,
+      "ns_exponent": 0.75,
+      "sample": 0.001,
+      "workers": 1,
+      "seed": 42,
+      "shrink_windows": true
+    }
+  },
+  "fasttext": {
+    "seconds": 97.09754558303393,
+    "vocabulary": 58854,
+    "params": {
+      "sg": 1,
+      "vector_size": 100,
+      "window": 5,
+      "min_count": 3,
+      "epochs": 5,
+      "negative": 5,
+      "ns_exponent": 0.75,
+      "sample": 0.001,
+      "workers": 1,
+      "seed": 42,
+      "shrink_windows": true,
+      "min_n": 2,
+      "max_n": 4,
+      "bucket": 200000
+    }
+  }
+}

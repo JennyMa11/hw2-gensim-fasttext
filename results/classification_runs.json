@@ -1,0 +1,4722 @@
+[
+  {
+    "classes": 2,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 24,
+    "correct": 20,
+    "accuracy": 0.8333333333333334,
+    "macro_f1": 0.8285714285714285,
+    "seconds": 0.07329500000923872,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.8571428571428571,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.8,
+        "support": 12.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.875,
+        "recall": 0.8333333333333333,
+        "f1-score": 0.8285714285714285,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 0.875,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8285714285714286,
+        "support": 24.0
+      }
+    },
+    "dictionary_size": 5721,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 2,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 24,
+    "correct": 24,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "seconds": 0.8730213751550764,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+      }
+    },
+    "dictionary_size": 59414,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 2,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 24,
+    "correct": 18,
+    "accuracy": 0.75,
+    "macro_f1": 0.7333333333333334,
+    "seconds": 0.06487829214893281,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        6,
+        6
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1-score": 0.8,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "accuracy": 0.75,
+      "macro avg": {
+        "precision": 0.8333333333333333,
+        "recall": 0.75,
+        "f1-score": 0.7333333333333334,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 0.8333333333333334,
+        "recall": 0.75,
+        "f1-score": 0.7333333333333334,
+        "support": 24.0
+      }
+    },
+    "dictionary_size": 5721,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 2,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 24,
+    "correct": 24,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "seconds": 0.8619660418480635,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+      }
+    },
+    "dictionary_size": 59414,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 2,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 24,
+    "correct": 20,
+    "accuracy": 0.8333333333333334,
+    "macro_f1": 0.8285714285714285,
+    "seconds": 0.06511066714301705,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        4,
+        8
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.8571428571428571,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.8,
+        "support": 12.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.875,
+        "recall": 0.8333333333333333,
+        "f1-score": 0.8285714285714285,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 0.875,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8285714285714286,
+        "support": 24.0
+      }
+    },
+    "dictionary_size": 5721,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 2,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 24,
+    "correct": 24,
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "seconds": 0.883662834065035,
+    "confusion_matrix": [
+      [
+        12,
+        0
+      ],
+      [
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "accuracy": 1.0,
+      "macro avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 24.0
+      }
+    },
+    "dictionary_size": 59414,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 4,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 48,
+    "correct": 25,
+    "accuracy": 0.5208333333333334,
+    "macro_f1": 0.49022921522921525,
+    "seconds": 0.13353791600093246,
+    "confusion_matrix": [
+      [
+        9,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        4,
+        0,
+        8
+      ],
+      [
+        0,
+        0,
+        1,
+        11
+      ],
+      [
+        1,
+        0,
+        0,
+        11
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9,
+        "recall": 0.75,
+        "f1-score": 0.8181818181818182,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.5,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.3333333333333333,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.4888888888888889,
+        "support": 12.0
+      },
+      "accuracy": 0.5208333333333334,
+      "macro avg": {
+        "precision": 0.8083333333333333,
+        "recall": 0.5208333333333333,
+        "f1-score": 0.49022921522921525,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.8083333333333332,
+        "recall": 0.5208333333333334,
+        "f1-score": 0.4902292152292152,
+        "support": 48.0
+      }
+    },
+    "dictionary_size": 10126,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 4,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 48,
+    "correct": 40,
+    "accuracy": 0.8333333333333334,
+    "macro_f1": 0.8336120401337792,
+    "seconds": 0.9579302500933409,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        12,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        2
+      ],
+      [
+        1,
+        0,
+        3,
+        8
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.7142857142857143,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7692307692307693,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.8376623376623378,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8336120401337792,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.8376623376623376,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8336120401337793,
+        "support": 48.0
+      }
+    },
+    "dictionary_size": 59847,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 4,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 48,
+    "correct": 26,
+    "accuracy": 0.5416666666666666,
+    "macro_f1": 0.5150658165364048,
+    "seconds": 0.13761112513020635,
+    "confusion_matrix": [
+      [
+        9,
+        0,
+        0,
+        3
+      ],
+      [
+        0,
+        5,
+        0,
+        7
+      ],
+      [
+        0,
+        0,
+        1,
+        11
+      ],
+      [
+        1,
+        0,
+        0,
+        11
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9,
+        "recall": 0.75,
+        "f1-score": 0.8181818181818182,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.5882352941176471,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.34375,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.5,
+        "support": 12.0
+      },
+      "accuracy": 0.5416666666666666,
+      "macro avg": {
+        "precision": 0.8109375,
+        "recall": 0.5416666666666666,
+        "f1-score": 0.5150658165364048,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.8109375,
+        "recall": 0.5416666666666666,
+        "f1-score": 0.5150658165364047,
+        "support": 48.0
+      }
+    },
+    "dictionary_size": 10126,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 4,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 48,
+    "correct": 40,
+    "accuracy": 0.8333333333333334,
+    "macro_f1": 0.8336120401337792,
+    "seconds": 0.9596667920704931,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        12,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        2
+      ],
+      [
+        1,
+        0,
+        3,
+        8
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.7142857142857143,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7692307692307693,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.8376623376623378,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8336120401337792,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.8376623376623376,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8336120401337793,
+        "support": 48.0
+      }
+    },
+    "dictionary_size": 59847,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 4,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 48,
+    "correct": 26,
+    "accuracy": 0.5416666666666666,
+    "macro_f1": 0.5234873949579831,
+    "seconds": 0.13269116706214845,
+    "confusion_matrix": [
+      [
+        9,
+        0,
+        0,
+        3
+      ],
+      [
+        1,
+        5,
+        0,
+        6
+      ],
+      [
+        1,
+        0,
+        2,
+        9
+      ],
+      [
+        2,
+        0,
+        0,
+        10
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.6923076923076923,
+        "recall": 0.75,
+        "f1-score": 0.72,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.5882352941176471,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.35714285714285715,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.5,
+        "support": 12.0
+      },
+      "accuracy": 0.5416666666666666,
+      "macro avg": {
+        "precision": 0.7623626373626374,
+        "recall": 0.5416666666666667,
+        "f1-score": 0.5234873949579831,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.7623626373626373,
+        "recall": 0.5416666666666666,
+        "f1-score": 0.5234873949579831,
+        "support": 48.0
+      }
+    },
+    "dictionary_size": 10126,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 4,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 48,
+    "correct": 40,
+    "accuracy": 0.8333333333333334,
+    "macro_f1": 0.8336120401337792,
+    "seconds": 0.968016125028953,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        12,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        10,
+        2
+      ],
+      [
+        1,
+        0,
+        3,
+        8
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.7142857142857143,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7692307692307693,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "accuracy": 0.8333333333333334,
+      "macro avg": {
+        "precision": 0.8376623376623378,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8336120401337792,
+        "support": 48.0
+      },
+      "weighted avg": {
+        "precision": 0.8376623376623376,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8336120401337793,
+        "support": 48.0
+      }
+    },
+    "dictionary_size": 59847,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 27,
+    "accuracy": 0.28125,
+    "macro_f1": 0.24173522555875496,
+    "seconds": 0.31448687496595085,
+    "confusion_matrix": [
+      [
+        7,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        8,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        11,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.7777777777777778,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1-score": 0.4,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.1506849315068493,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.25882352941176473,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.5,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.45454545454545453,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "accuracy": 0.28125,
+      "macro avg": {
+        "precision": 0.4285578386605784,
+        "recall": 0.28125,
+        "f1-score": 0.24173522555875496,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.4285578386605784,
+        "recall": 0.28125,
+        "f1-score": 0.24173522555875496,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 15641,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1554660841356963,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 29,
+    "accuracy": 0.3020833333333333,
+    "macro_f1": 0.25336453669787,
+    "seconds": 0.30083529208786786,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        3,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        9,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        3,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        10,
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1-score": 0.4,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.15942028985507245,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.2716049382716049,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1-score": 0.3333333333333333,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "accuracy": 0.3020833333333333,
+      "macro avg": {
+        "precision": 0.535552536231884,
+        "recall": 0.3020833333333333,
+        "f1-score": 0.25336453669787,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.5355525362318841,
+        "recall": 0.3020833333333333,
+        "f1-score": 0.25336453669787,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 15641,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1564649161882699,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "scratch",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 25,
+    "accuracy": 0.2604166666666667,
+    "macro_f1": 0.21506410256410255,
+    "seconds": 0.3013630409259349,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        3,
+        0,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        9,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        10,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.5555555555555556,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1-score": 0.4,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.125,
+        "recall": 0.75,
+        "f1-score": 0.21428571428571427,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "accuracy": 0.2604166666666667,
+      "macro avg": {
+        "precision": 0.4600694444444444,
+        "recall": 0.2604166666666667,
+        "f1-score": 0.21506410256410255,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.4600694444444445,
+        "recall": 0.2604166666666667,
+        "f1-score": 0.21506410256410258,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 15641,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1391202921513468,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "word2vec",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1803067908622324,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "word2vec",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1663127918727696,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "word2vec",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1557370841037482,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 12,
+    "method": "scratch",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 96,
+    "correct": 30,
+    "accuracy": 0.3125,
+    "macro_f1": 0.28029770775672413,
+    "seconds": 0.06357962498441339,
+    "confusion_matrix": [
+      [
+        5,
+        0,
+        0,
+        6,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        2,
+        6,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        4,
+        8,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        8,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        3,
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        2,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        4,
+        7,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        1,
+        8,
+        1,
+        0,
+        0,
+        0
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.5555555555555556,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.47619047619047616,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1-score": 0.4,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1-score": 0.3333333333333333,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.16326530612244897,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.26229508196721313,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.38095238095238093,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.48484848484848486,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "accuracy": 0.3125,
+      "macro avg": {
+        "precision": 0.42913832199546487,
+        "recall": 0.3125,
+        "f1-score": 0.28029770775672413,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.4291383219954648,
+        "recall": 0.3125,
+        "f1-score": 0.2802977077567242,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 6527,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 12,
+    "method": "fasttext",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 96,
+    "correct": 67,
+    "accuracy": 0.6979166666666666,
+    "macro_f1": 0.6989158688440626,
+    "seconds": 0.8757993329782039,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        2,
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        0,
+        6,
+        2,
+        0,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        3,
+        6,
+        1,
+        1
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        7,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1-score": 0.9230769230769231,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 1.0,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.7368421052631579,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.5454545454545454,
+        "recall": 0.5,
+        "f1-score": 0.5217391304347826,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.5294117647058824,
+        "recall": 0.75,
+        "f1-score": 0.6206896551724138,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.5,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.5384615384615384,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "accuracy": 0.6979166666666666,
+      "macro avg": {
+        "precision": 0.7457625095492743,
+        "recall": 0.6979166666666667,
+        "f1-score": 0.6989158688440626,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7457625095492743,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6989158688440625,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 59355,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 12,
+    "method": "scratch",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 96,
+    "correct": 29,
+    "accuracy": 0.3020833333333333,
+    "macro_f1": 0.24446522680218333,
+    "seconds": 0.06506924983114004,
+    "confusion_matrix": [
+      [
+        5,
+        0,
+        1,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        5,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        6,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        1,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        5,
+        4,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        9,
+        1,
+        1,
+        0,
+        0
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.4166666666666667,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.4166666666666667,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.5454545454545454,
+        "recall": 0.5,
+        "f1-score": 0.5217391304347826,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.18518518518518517,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.30303030303030304,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1-score": 0.42857142857142855,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "accuracy": 0.3020833333333333,
+      "macro avg": {
+        "precision": 0.31528829966329963,
+        "recall": 0.30208333333333337,
+        "f1-score": 0.24446522680218333,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.3152882996632997,
+        "recall": 0.3020833333333333,
+        "f1-score": 0.2444652268021833,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 6527,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 12,
+    "method": "fasttext",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 96,
+    "correct": 67,
+    "accuracy": 0.6979166666666666,
+    "macro_f1": 0.6989158688440626,
+    "seconds": 0.8622987910639495,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        2,
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        0,
+        6,
+        2,
+        0,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        3,
+        6,
+        1,
+        1
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        7,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1-score": 0.9230769230769231,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 1.0,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.7368421052631579,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.5454545454545454,
+        "recall": 0.5,
+        "f1-score": 0.5217391304347826,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.5294117647058824,
+        "recall": 0.75,
+        "f1-score": 0.6206896551724138,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.5,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.5384615384615384,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "accuracy": 0.6979166666666666,
+      "macro avg": {
+        "precision": 0.7457625095492743,
+        "recall": 0.6979166666666667,
+        "f1-score": 0.6989158688440626,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7457625095492743,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6989158688440625,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 59355,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 12,
+    "method": "scratch",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 96,
+    "correct": 37,
+    "accuracy": 0.3854166666666667,
+    "macro_f1": 0.351931917505688,
+    "seconds": 0.0647605829872191,
+    "confusion_matrix": [
+      [
+        7,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        6,
+        2,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        5,
+        7,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        5,
+        7,
+        0,
+        0,
+        0
+      ],
+      [
+        3,
+        0,
+        1,
+        6,
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        4,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        1,
+        9,
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.4666666666666667,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.5185185185185185,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.5555555555555556,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.47619047619047616,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.20408163265306123,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.32786885245901637,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.4666666666666667,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.5185185185185185,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "accuracy": 0.3854166666666667,
+      "macro avg": {
+        "precision": 0.5866213151927437,
+        "recall": 0.3854166666666667,
+        "f1-score": 0.351931917505688,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.5866213151927439,
+        "recall": 0.3854166666666667,
+        "f1-score": 0.35193191750568803,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 6527,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 12,
+    "method": "fasttext",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 96,
+    "test_count": 96,
+    "correct": 67,
+    "accuracy": 0.6979166666666666,
+    "macro_f1": 0.6989158688440626,
+    "seconds": 0.8637964590452611,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        12,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        7,
+        2,
+        1,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        0,
+        6,
+        2,
+        0,
+        2,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        3,
+        6,
+        1,
+        1
+      ],
+      [
+        0,
+        2,
+        0,
+        0,
+        1,
+        0,
+        7,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        10
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1-score": 0.9230769230769231,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 1.0,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.7368421052631579,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.5454545454545454,
+        "recall": 0.5,
+        "f1-score": 0.5217391304347826,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.5294117647058824,
+        "recall": 0.75,
+        "f1-score": 0.6206896551724138,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.5,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.5384615384615384,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "accuracy": 0.6979166666666666,
+      "macro avg": {
+        "precision": 0.7457625095492743,
+        "recall": 0.6979166666666667,
+        "f1-score": 0.6989158688440626,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7457625095492743,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6989158688440625,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 59355,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 24,
+    "method": "scratch",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 96,
+    "correct": 21,
+    "accuracy": 0.21875,
+    "macro_f1": 0.16387959866220736,
+    "seconds": 0.13884299993515015,
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        10,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        10,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        7,
+        5,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        1,
+        0,
+        0,
+        1
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.15,
+        "recall": 1.0,
+        "f1-score": 0.2608695652173913,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.45454545454545453,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.43478260869565216,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "accuracy": 0.21875,
+      "macro avg": {
+        "precision": 0.5755681818181818,
+        "recall": 0.21875,
+        "f1-score": 0.16387959866220736,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.5755681818181818,
+        "recall": 0.21875,
+        "f1-score": 0.16387959866220736,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 10122,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 24,
+    "method": "fasttext",
+    "seed": 42,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 96,
+    "correct": 67,
+    "accuracy": 0.6979166666666666,
+    "macro_f1": 0.6927024786807395,
+    "seconds": 0.9617742919363081,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        2,
+        5,
+        2,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        2,
+        6,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        7,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        11
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.7857142857142857,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.8461538461538461,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.5,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.45454545454545453,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.6428571428571429,
+        "recall": 0.75,
+        "f1-score": 0.6923076923076923,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.5384615384615384,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.56,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.6875,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.7857142857142857,
+        "support": 12.0
+      },
+      "accuracy": 0.6979166666666666,
+      "macro avg": {
+        "precision": 0.7162863178488178,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6927024786807395,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7162863178488178,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6927024786807395,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 59709,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 24,
+    "method": "scratch",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 96,
+    "correct": 27,
+    "accuracy": 0.28125,
+    "macro_f1": 0.2559002044467161,
+    "seconds": 0.13565395888872445,
+    "confusion_matrix": [
+      [
+        3,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        0,
+        9,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        6,
+        6,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        9,
+        2,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        8,
+        1,
+        0,
+        0,
+        2
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1-score": 0.4,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.5,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.14285714285714285,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.16216216216216217,
+        "recall": 1.0,
+        "f1-score": 0.27906976744186046,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1-score": 0.5,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "accuracy": 0.28125,
+      "macro avg": {
+        "precision": 0.6452702702702703,
+        "recall": 0.28125,
+        "f1-score": 0.2559002044467161,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.6452702702702703,
+        "recall": 0.28125,
+        "f1-score": 0.2559002044467161,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 10122,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 24,
+    "method": "fasttext",
+    "seed": 43,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 96,
+    "correct": 67,
+    "accuracy": 0.6979166666666666,
+    "macro_f1": 0.6927024786807395,
+    "seconds": 0.9597119169775397,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        2,
+        5,
+        2,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        2,
+        6,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        7,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        11
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.7857142857142857,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.8461538461538461,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.5,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.45454545454545453,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.6428571428571429,
+        "recall": 0.75,
+        "f1-score": 0.6923076923076923,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.5384615384615384,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.56,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.6875,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.7857142857142857,
+        "support": 12.0
+      },
+      "accuracy": 0.6979166666666666,
+      "macro avg": {
+        "precision": 0.7162863178488178,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6927024786807395,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7162863178488178,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6927024786807395,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 59709,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 43
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 24,
+    "method": "scratch",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 96,
+    "correct": 18,
+    "accuracy": 0.1875,
+    "macro_f1": 0.14419300630640836,
+    "seconds": 0.13744920794852078,
+    "confusion_matrix": [
+      [
+        3,
+        0,
+        0,
+        9,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        10,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        12,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        10,
+        2,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        11,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1-score": 0.3333333333333333,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.12941176470588237,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.2268041237113402,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1-score": 0.2857142857142857,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1-score": 0.15384615384615385,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 12.0
+      },
+      "accuracy": 0.1875,
+      "macro avg": {
+        "precision": 0.4536764705882353,
+        "recall": 0.1875,
+        "f1-score": 0.14419300630640836,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.4536764705882353,
+        "recall": 0.1875,
+        "f1-score": 0.14419300630640838,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 10122,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 24,
+    "method": "fasttext",
+    "seed": 44,
+    "repeat": false,
+    "train_count": 192,
+    "test_count": 96,
+    "correct": 67,
+    "accuracy": 0.6979166666666666,
+    "macro_f1": 0.6927024786807395,
+    "seconds": 0.9813942920882255,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        8,
+        2,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        0,
+        2,
+        5,
+        2,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        9,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1,
+        2,
+        6,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        7,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        11
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.7857142857142857,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.8461538461538461,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.5,
+        "recall": 0.4166666666666667,
+        "f1-score": 0.45454545454545453,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.6428571428571429,
+        "recall": 0.75,
+        "f1-score": 0.6923076923076923,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.5384615384615384,
+        "recall": 0.5833333333333334,
+        "f1-score": 0.56,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.6875,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.7857142857142857,
+        "support": 12.0
+      },
+      "accuracy": 0.6979166666666666,
+      "macro avg": {
+        "precision": 0.7162863178488178,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6927024786807395,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7162863178488178,
+        "recall": 0.6979166666666666,
+        "f1-score": 0.6927024786807395,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 59709,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 44
+    }
+  },
+  {
+    "classes": 8,
+    "train_per_class": 48,
+    "method": "fasttext",
+    "seed": 42,
+    "repeat": true,
+    "train_count": 384,
+    "test_count": 96,
+    "correct": 76,
+    "accuracy": 0.7916666666666666,
+    "macro_f1": 0.7901486918878223,
+    "seconds": 1.1296749589964747,
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        11,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        9,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        2,
+        6,
+        1,
+        0,
+        2,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        1,
+        10,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        10,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        12
+      ]
+    ],
+    "classification_report": {
+      "体育": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "金融": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "教育": {
+        "precision": 0.75,
+        "recall": 0.75,
+        "f1-score": 0.75,
+        "support": 12.0
+      },
+      "文化": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1-score": 0.5454545454545454,
+        "support": 12.0
+      },
+      "科技": {
+        "precision": 0.7272727272727273,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.6956521739130435,
+        "support": 12.0
+      },
+      "医疗": {
+        "precision": 0.9090909090909091,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8695652173913043,
+        "support": 12.0
+      },
+      "农业": {
+        "precision": 0.625,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.7142857142857143,
+        "support": 12.0
+      },
+      "法治": {
+        "precision": 0.9230769230769231,
+        "recall": 1.0,
+        "f1-score": 0.96,
+        "support": 12.0
+      },
+      "accuracy": 0.7916666666666666,
+      "macro avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666667,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      },
+      "weighted avg": {
+        "precision": 0.7950247668997669,
+        "recall": 0.7916666666666666,
+        "f1-score": 0.7901486918878223,
+        "support": 96.0
+      }
+    },
+    "dictionary_size": 60690,
+    "parameters": {
+      "dim": 100,
+      "lr": 0.3,
+      "epoch": 25,
+      "wordNgrams": 2,
+      "minn": 0,
+      "maxn": 0,
+      "loss": "softmax",
+      "thread": 1,
+      "bucket": 200000,
+      "verbose": 0,
+      "seed": 42
+    }
+  }
+]

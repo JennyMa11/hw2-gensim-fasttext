@@ -1,0 +1,4847 @@
+[
+  {
+    "id": "19980123-08-001",
+    "label": "体育",
+    "title": "长野冬奥会火炬接力中国六名选手参加（附图片１张）",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "7a3181461cedaaa54c9bfc29142baf32140e67c79f9bd6db7bc82dd0c424e0b2",
+    "split": "test"
+  },
+  {
+    "id": "19980206-08-008",
+    "label": "体育",
+    "title": "球星重伤阵容受损世界杯备战未始先折将",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "96eb1a305f114448de43619116573a66bd0be2c8052075530f100f1c527968d4",
+    "split": "test"
+  },
+  {
+    "id": "19980506-08-005",
+    "label": "体育",
+    "title": "北京将举办首届业余网球大赛",
+    "hits": [
+      "网球"
+    ],
+    "body_sha256": "058668c415c981e5b321a861cf6a608dd9ef0b934523e55ec2eb304a8bfb29a2",
+    "split": "test"
+  },
+  {
+    "id": "19980330-08-001",
+    "label": "体育",
+    "title": "中国羽毛球天王挑战赛孙俊将董炯拉下马",
+    "hits": [
+      "羽毛球"
+    ],
+    "body_sha256": "6c816be04de1ec0cba7d6d20e0c7fb8ff1a204fa4b098a00e073dfa4d7f04c6b",
+    "split": "test"
+  },
+  {
+    "id": "19980525-08-004",
+    "label": "体育",
+    "title": "第二十届汤姆斯杯羽毛球赛落幕印尼男队战胜马来西亚队夺杯",
+    "hits": [
+      "羽毛球"
+    ],
+    "body_sha256": "9581e4a99b1797954e5c49f682abb44389d8fb7ce13bdf755b988f51e64f436f",
+    "split": "test"
+  },
+  {
+    "id": "19980312-07-002",
+    "label": "体育",
+    "title": "冬奥之后话商战",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "0e75d5f2bd0ca43129a04d3c13aabc2b62359be3f4563330d5960038c63474e2",
+    "split": "test"
+  },
+  {
+    "id": "19980424-08-002",
+    "label": "体育",
+    "title": "世界杯热身赛不断德国队胜尼日利亚队",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "1e0c5e4eaa7a7036a54c129477927d0f25741c6db323eefec75ffd4582d45d0a",
+    "split": "test"
+  },
+  {
+    "id": "19980323-11-005",
+    "label": "体育",
+    "title": "赣州：体育市场火",
+    "hits": [
+      "体育"
+    ],
+    "body_sha256": "4daae34a3bdcb4887872fd3d64bcbe4cb81c188605a42a40fa6c0c80f434d238",
+    "split": "test"
+  },
+  {
+    "id": "19980218-08-005",
+    "label": "体育",
+    "title": "羽毛球汤尤杯亚洲区预赛开始中国男女队首战加拿大新西兰",
+    "hits": [
+      "羽毛球"
+    ],
+    "body_sha256": "e35db76c6f5c46adfd9623b1d15170b5793290bb3db791be530ad52e626db2b9",
+    "split": "test"
+  },
+  {
+    "id": "19980125-08-006",
+    "label": "体育",
+    "title": "全国足球甲Ｂ球员开始体能测试球员整体实力好于往年",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "89c06788d72cd5b9fb1a709d16d5098b2a614dd9315c600c21cb44cd71b4c5eb",
+    "split": "test"
+  },
+  {
+    "id": "19980521-08-009",
+    "label": "体育",
+    "title": "世界女子沙滩排球公开赛大连站比赛将举行",
+    "hits": [
+      "排球"
+    ],
+    "body_sha256": "5b31de99ca461245fdf6c9a578aee4dd4e80d3ea7c35a0af6fb45defdba3f1b2",
+    "split": "test"
+  },
+  {
+    "id": "19980305-08-006",
+    "label": "体育",
+    "title": "亚洲体育记者联盟代表大会在深圳开幕",
+    "hits": [
+      "体育"
+    ],
+    "body_sha256": "5bc964973402ed33ace57478034c3a512724eccfdf767dde5de2d39a0c05a8d2",
+    "split": "test"
+  },
+  {
+    "id": "19980331-08-005",
+    "label": "体育",
+    "title": "世界杯体操系列赛法国站比赛毕文静高低杠折桂张京津双杠夺冠",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "cff883ae74269c95bb08d9687ea62fc28ae9c6f507d2d1fcf00e04a55fb14d9b",
+    "split": "train"
+  },
+  {
+    "id": "19980416-05-010",
+    "label": "体育",
+    "title": "社会体育指导中心加强管理和引导开发新的智力体育竞赛项目",
+    "hits": [
+      "体育"
+    ],
+    "body_sha256": "1b35999c24eb330beb7146173960d6fa5d98a7a89db353ce950e30806ae9ab57",
+    "split": "train"
+  },
+  {
+    "id": "19980317-08-006",
+    "label": "体育",
+    "title": "中国乒乓球男队面临严峻形势",
+    "hits": [
+      "乒乓球"
+    ],
+    "body_sha256": "0430f5ed0c92c499af9754026e107122622f8637eff8ae487234dae032796ac4",
+    "split": "train"
+  },
+  {
+    "id": "19980326-08-004",
+    "label": "体育",
+    "title": "国际乒联执委会会议将在苏州举行会议期间举办大乒乓球比赛",
+    "hits": [
+      "乒乓球"
+    ],
+    "body_sha256": "bba5658b7dd5e6ddf63ff1ad1021118ae864a121556e2ec5df355de0e51210d4",
+    "split": "train"
+  },
+  {
+    "id": "19980221-04-008",
+    "label": "体育",
+    "title": "全军最佳运动员评选在京揭晓",
+    "hits": [
+      "运动员"
+    ],
+    "body_sha256": "650afb7ce5b398a3344c099c51450512108948a9dd260cdf93a75ef8a5934a1a",
+    "split": "train"
+  },
+  {
+    "id": "19980208-02-004",
+    "label": "体育",
+    "title": "李铁映勉励冬奥会中国运动员赛出风格赛出水平为国争光",
+    "hits": [
+      "冬奥",
+      "运动员"
+    ],
+    "body_sha256": "94e26db66db71282e65cfb6031162f9f80b0ac760ada3311e0fa63372ea0bff8",
+    "split": "train"
+  },
+  {
+    "id": "19980518-08-002",
+    "label": "体育",
+    "title": "中国乒乓球擂台赛王励勤淘汰孔令辉（附图片１张）",
+    "hits": [
+      "乒乓球"
+    ],
+    "body_sha256": "c70ceb6e60abfab0ca211120ff909fdde15cdf20a19205a1020315d3f7ea30d2",
+    "split": "train"
+  },
+  {
+    "id": "19980504-08-012",
+    "label": "体育",
+    "title": "奥胜篮球队获亚洲俱乐部赛冠军",
+    "hits": [
+      "篮球"
+    ],
+    "body_sha256": "220fbd43d2cccbe56e8f3603b81d62fa9984673f4121d205e5e85176084cdf86",
+    "split": "train"
+  },
+  {
+    "id": "19980330-08-011",
+    "label": "体育",
+    "title": "全国排球联赛还剩最后一轮江苏男排夺冠形势有利",
+    "hits": [
+      "排球"
+    ],
+    "body_sha256": "9f973a111b8ec55a6954dfb47061db4e0f06f12e3adb0e6ba54fdfb021246e69",
+    "split": "train"
+  },
+  {
+    "id": "19980303-05-014",
+    "label": "体育",
+    "title": "巴西蝉联世界女子沙滩排球巡回赛冠军",
+    "hits": [
+      "排球"
+    ],
+    "body_sha256": "b8199b76a3b3f144a8731b9c561af502c10ddc63dc2491884d92800468ca43d0",
+    "split": "train"
+  },
+  {
+    "id": "19980121-08-003",
+    "label": "体育",
+    "title": "新春北京：体育健身乐融融",
+    "hits": [
+      "体育"
+    ],
+    "body_sha256": "071cebeef0e62b87742fac68eb2c71bb1aa1551ae7ea255e1b07480d4310a0bc",
+    "split": "train"
+  },
+  {
+    "id": "19980217-08-010",
+    "label": "体育",
+    "title": "世界男子沙滩排球赛巴西称雄",
+    "hits": [
+      "排球"
+    ],
+    "body_sha256": "f9c2ff9a0c7db6cc883e300220477a8c4ab0114b7e2629706379e3f579254e9b",
+    "split": "train"
+  },
+  {
+    "id": "19980424-08-006",
+    "label": "体育",
+    "title": "全国足球甲Ａ联赛补赛一场北京国安战胜山东鲁能",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "99043bdf7ef32b75d9bc2921669bc29c091cdf296b8c9d06c0707c8479f38bb6",
+    "split": "train"
+  },
+  {
+    "id": "19980112-08-002",
+    "label": "体育",
+    "title": "企业如何进行体育赞助（附图片１张）",
+    "hits": [
+      "体育"
+    ],
+    "body_sha256": "febcc24ef9c96c6467dca9aa8d8028e3355335e2fa991d5eb0355ae76671b64e",
+    "split": "train"
+  },
+  {
+    "id": "19980413-05-009",
+    "label": "体育",
+    "title": "全国排球联赛总结会结束张利明诸韵颖当选最佳球员",
+    "hits": [
+      "排球"
+    ],
+    "body_sha256": "154967dbd9b1b49f2a938ab5aa86897f63267016f12681c849bfdfba11e19629",
+    "split": "train"
+  },
+  {
+    "id": "19980302-08-004",
+    "label": "体育",
+    "title": "天津泰达足球俱乐部成立",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "4865a67f2a49c957a6b44f29e3a8c21338a176b6209c7c3eafd495fbb9a2356c",
+    "split": "train"
+  },
+  {
+    "id": "19980225-08-005",
+    "label": "体育",
+    "title": "亚洲体育记者联盟代表大会即将在深圳举行",
+    "hits": [
+      "体育"
+    ],
+    "body_sha256": "68fa1a9223a844ebbdd044e55bfeff4457f2b9ae4c6e61d1ae9cada9b534b4c8",
+    "split": "train"
+  },
+  {
+    "id": "19980421-08-001",
+    "label": "体育",
+    "title": "世界杯体操赛系列赛毕文静一人摘三金",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "19670f8b3af4b1222e10abfe79093896282abb66486bbaa319a930f62af1208a",
+    "split": "train"
+  },
+  {
+    "id": "19980207-04-007",
+    "label": "体育",
+    "title": "汤尤杯羽毛球赛亚洲区预赛我将派董炯叶钊颖等出战",
+    "hits": [
+      "羽毛球"
+    ],
+    "body_sha256": "11ca818b716512dac920847871f9adcb417e73a503c814a7395ae24429b5fcb5",
+    "split": "train"
+  },
+  {
+    "id": "19980413-05-011",
+    "label": "体育",
+    "title": "足球甲Ａ联赛渐渐拉开档次万达力挫八一跃居榜首",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "cd884b9c7026d68b24333e9c34f83a68ac87a8572e4c4fcb05d8aee68e793af6",
+    "split": "train"
+  },
+  {
+    "id": "19980106-05-011",
+    "label": "体育",
+    "title": "山东鲁能泰山足球俱乐部揭牌",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "2b18e5ca9f81aeb7c9cf696699bf9d46b09ad3c95e4dbab1ab7d9239a9c510a0",
+    "split": "train"
+  },
+  {
+    "id": "19980527-08-002",
+    "label": "体育",
+    "title": "南红星足球队战胜国安队以三战三捷结束访华友谊赛（附图片１张）",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "e3cd8cb2e7214d3fb402023493fc8fe329e9f8655d4d906bb22f8b5857c969e7",
+    "split": "train"
+  },
+  {
+    "id": "19980417-08-001",
+    "label": "体育",
+    "title": "托起明天的希望－－－记宋晓波和她的篮球俱乐部（附图片１张）",
+    "hits": [
+      "篮球"
+    ],
+    "body_sha256": "6161f8def33328f8042918e133d22e745b77cf387eee47b0f1b299b09789cbaf",
+    "split": "train"
+  },
+  {
+    "id": "19980211-08-001",
+    "label": "体育",
+    "title": "俄罗斯选手再添两枚冬奥会金牌大雪弥漫致使高山滑雪比赛三度延期",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "4cc83659864694b27c2c565fba81ae356bbd0bd8c3ff941e2225c55b03dbaf77",
+    "split": "train"
+  },
+  {
+    "id": "19980601-08-003",
+    "label": "体育",
+    "title": "足球甲Ａ战罢１２轮格局依旧万达继续领先国安继续不败",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "f56a0908681b8c0b9164c742d562e4e75306e7d5bd24b60fe2e9fa3770a96c17",
+    "split": "train"
+  },
+  {
+    "id": "19980619-08-002",
+    "label": "体育",
+    "title": "关闭酒吧控制售酒避免聚众世界杯强化安全措施",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "8bc26284bfca512d2e24f6ab776174881cb071f9f6d074fb0eeb3930a99453ae",
+    "split": "train"
+  },
+  {
+    "id": "19980217-08-002",
+    "label": "体育",
+    "title": "冬奥会诞生第三个世界纪录荷兰选手女子１５００米速滑折桂",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "4a016fc54c1ac1fe478370a523075cb4ff839c4f8200dc1e61d0b40ad0473557",
+    "split": "train"
+  },
+  {
+    "id": "19980110-04-001",
+    "label": "体育",
+    "title": "充分利用体育人才资源国家体委将加大运动员交流力度",
+    "hits": [
+      "体育",
+      "运动员"
+    ],
+    "body_sha256": "57093f642d467629de8cef4e84bcecb7738b9180418d8ff30629f42f9d0b45ae",
+    "split": "train"
+  },
+  {
+    "id": "19980225-08-008",
+    "label": "体育",
+    "title": "北大冠亚足球俱乐部成立",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "0c7b02850002e94e1594ce34d13f84b8fd10aaf5ac505ef69c20a6583e7cc9be",
+    "split": "train"
+  },
+  {
+    "id": "19980430-08-003",
+    "label": "体育",
+    "title": "留学剑桥———访著名乒乓球运动员邓亚萍",
+    "hits": [
+      "乒乓球",
+      "运动员"
+    ],
+    "body_sha256": "e92fb4275581d0fcb601fce85f77884178f189b537c3c2826b0810a736e67f38",
+    "split": "train"
+  },
+  {
+    "id": "19980508-08-001",
+    "label": "体育",
+    "title": "韩国决定新建世界杯足球场",
+    "hits": [
+      "足球",
+      "世界杯"
+    ],
+    "body_sha256": "87cdfdff053a454d18eb2a286d48e31e0daa1190aaa9553aad86d671ea84b82e",
+    "split": "train"
+  },
+  {
+    "id": "19980331-08-008",
+    "label": "体育",
+    "title": "足球名宿穆勒预言德法将争夺世界杯",
+    "hits": [
+      "足球",
+      "世界杯"
+    ],
+    "body_sha256": "e4f9016d3e7f99dfeda658680a6302433e33ecb4df29e50b8d71dc782db5ab2f",
+    "split": "train"
+  },
+  {
+    "id": "19980604-08-002",
+    "label": "体育",
+    "title": "自得其乐———篮球在德国",
+    "hits": [
+      "篮球"
+    ],
+    "body_sha256": "f1e0346ef56ca3fc43b5c6c1b7d6b42f6c78d4c7d3c750e27c94aaff7a3b650b",
+    "split": "train"
+  },
+  {
+    "id": "19980219-08-002",
+    "label": "体育",
+    "title": "冬奥会自由式滑雪群芳争艳徐囡囡奋力拼搏摘银牌",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "63902c8de5900fa01291cbaf2f471f857f0b67e73a4d2632490122bb185d5c35",
+    "split": "train"
+  },
+  {
+    "id": "19980224-08-001",
+    "label": "体育",
+    "title": "更有青山在前头——中国健儿参加冬奥会述评",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "02c3b24239d69c0257b5f39798e53031b818b93b7789ba2228b8edbac0c9ab52",
+    "split": "train"
+  },
+  {
+    "id": "19980421-08-007",
+    "label": "体育",
+    "title": "观澜湖国际女子网球挑战赛中国三人登场２胜１负",
+    "hits": [
+      "网球"
+    ],
+    "body_sha256": "fafa7d57bd7c9d5668dfd884464b9b7d2f910cdc69ee214e71ce24d5423c4bd5",
+    "split": "train"
+  },
+  {
+    "id": "19980126-08-004",
+    "label": "体育",
+    "title": "第四届世界沙滩足球赛巴西法国队进入决赛",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "7d3de7c4e472ef8bdaaf578bc0c6548801cdfa00ecece34f7cfa9dd7e0e8019b",
+    "split": "train"
+  },
+  {
+    "id": "19980506-08-007",
+    "label": "体育",
+    "title": "法国世界杯两球场将留围栏门票仅剩五千张",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "fcfd76e61690c70627ccaf793354d2c96dccf1902902fdcfa6df314939dc446e",
+    "split": "train"
+  },
+  {
+    "id": "19980430-08-005",
+    "label": "体育",
+    "title": "中国国际男子网球希望赛５月举行",
+    "hits": [
+      "网球"
+    ],
+    "body_sha256": "3f07a8e48b0bf40c52e664c96f4db1562a785a11e852b307415fc4302e538bef",
+    "split": "train"
+  },
+  {
+    "id": "19980206-08-007",
+    "label": "体育",
+    "title": "厦门足球邀请赛落幕延边敖东三战全胜夺冠",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "a7c602b045cba293a71856ff62362d6f47ea24979a765edcc1b44874a9b57661",
+    "split": "train"
+  },
+  {
+    "id": "19980106-05-013",
+    "label": "体育",
+    "title": "冬奥会未到世界纪录先破",
+    "hits": [
+      "冬奥"
+    ],
+    "body_sha256": "7f2e0c1a4aa66c362e7afaecec713538a9760e87ca81313f839fba6d3d53783b",
+    "split": "train"
+  },
+  {
+    "id": "19980622-08-008",
+    "label": "体育",
+    "title": "乒乓球俱乐部联赛大战七场",
+    "hits": [
+      "乒乓球"
+    ],
+    "body_sha256": "e8fd2fdad176cf2d4da6599d8aae95c3db02a9c837542663b2559c0dcadb7973",
+    "split": "train"
+  },
+  {
+    "id": "19980430-08-006",
+    "label": "体育",
+    "title": "万达要啃硬骨头－－－全国足球甲Ａ联赛第八轮展望",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "5272892540d9daafb3ce4680aea8150c6a2fa79820e0e72eae29feaa47ea212a",
+    "split": "train"
+  },
+  {
+    "id": "19980204-08-005",
+    "label": "体育",
+    "title": "港澳分别举行贺岁国际足球赛申花不敌格雷米奥",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "414d92c2c4287383680e1d11d2cb863fdeace68a40bde49aaa0a9ab62a125680",
+    "split": "train"
+  },
+  {
+    "id": "19980224-08-008",
+    "label": "体育",
+    "title": "两项足球评选揭晓",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "4f9b184b2f9905bd2177a2840c824b0d318639a52746d05ede77dfb8eebf87e2",
+    "split": "train"
+  },
+  {
+    "id": "19980514-08-003",
+    "label": "体育",
+    "title": "建予杯足球赛京津记者首场战平",
+    "hits": [
+      "足球"
+    ],
+    "body_sha256": "a06ad22b5815229f3e12148793c341de5d158960c3285bd99b3c270c06c2ad92",
+    "split": "train"
+  },
+  {
+    "id": "19980216-08-006",
+    "label": "体育",
+    "title": "排球联赛浙江上海仍是领头羊",
+    "hits": [
+      "排球"
+    ],
+    "body_sha256": "31b8ff726a6d1df2600e2c610ed3a7b7039fbe2dcd4d46b567783dafd02919bf",
+    "split": "train"
+  },
+  {
+    "id": "19980616-05-007",
+    "label": "体育",
+    "title": "冷门少世界杯高潮未到争出线各强队好戏在后",
+    "hits": [
+      "世界杯"
+    ],
+    "body_sha256": "c618094b3dc7374662fd746db895b8c348a7338b604dd0a81ff9e591ee480777",
+    "split": "train"
+  },
+  {
+    "id": "19980310-05-002",
+    "label": "金融",
+    "title": "把银行真正办成银行（附图片１张）",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "087d8545d328e56b7a025131b86f14c7b15d177d37993d90b01e56298ce2ff3a",
+    "split": "test"
+  },
+  {
+    "id": "19980409-07-001",
+    "label": "金融",
+    "title": "国际金融体系酝酿改革",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "c26bd8d9c00376fee0033c354142be8721c86c15db68d68a25275064d2234bb0",
+    "split": "test"
+  },
+  {
+    "id": "19980418-01-005",
+    "label": "金融",
+    "title": "北京市工行今年发放个人购房贷款５亿元",
+    "hits": [
+      "贷款"
+    ],
+    "body_sha256": "f9a17c9aefaf582ade2c6cdb85736f36772931183d6c861f17fbc4efbcf7b1c7",
+    "split": "test"
+  },
+  {
+    "id": "19980316-10-004",
+    "label": "金融",
+    "title": "银行贷款能否转为股权",
+    "hits": [
+      "银行",
+      "贷款"
+    ],
+    "body_sha256": "1a647b6a0efde3a0dccf8f6dc19c9c6f014e514b3ab88d93d0997f5ceb020184",
+    "split": "test"
+  },
+  {
+    "id": "19980105-07-001",
+    "label": "金融",
+    "title": "金融危机后痛定思痛东亚经济开始全面调整",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "7cbc59abc19402002147ea5a2c1e336c46a985f2e963f59c45866c92b6af6f07",
+    "split": "test"
+  },
+  {
+    "id": "19980418-03-005",
+    "label": "金融",
+    "title": "２２国（地区）集团讨论国际金融问题",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "4b0534d8ff3cc677d58a3a1d27bb438b44de576e30b125adc823aff709dc9d42",
+    "split": "test"
+  },
+  {
+    "id": "19980610-07-005",
+    "label": "金融",
+    "title": "香港竞争力全球排第二国际清算银行将在港设亚洲办事处",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "9de130d005d7163021c17592fb5b0d419052299357c1369bf1df22bc4aed8c7e",
+    "split": "test"
+  },
+  {
+    "id": "19980521-02-002",
+    "label": "金融",
+    "title": "建设银行积极发展住房金融",
+    "hits": [
+      "银行",
+      "金融"
+    ],
+    "body_sha256": "ec637162b96e79ba5c4759a5a03eeefe9f6dc5e59aacd800bb5e914271d8413f",
+    "split": "test"
+  },
+  {
+    "id": "19980308-01-004",
+    "label": "金融",
+    "title": "为实现今年经济增长目标中央银行将适当增加货币供应量",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "8f9ab12abd4c1d3a0aeb19a2f3f2bec66c72032d49d74ea8ff0c3974582a6655",
+    "split": "test"
+  },
+  {
+    "id": "19980530-05-005",
+    "label": "金融",
+    "title": "简评《银行论》",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "d32d01a00ea7940a6fbc67ee30401a173327c0fc3dc50ec1112fe0b4db99ff62",
+    "split": "test"
+  },
+  {
+    "id": "19980112-07-006",
+    "label": "金融",
+    "title": "虚假繁荣不良债权种祸根呆账积聚日本银行难运作",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "2f9919b57098e6486c4ff7744c4be87e5c73e081376a1ccaa5b2182e887a893a",
+    "split": "test"
+  },
+  {
+    "id": "19980529-07-004",
+    "label": "金融",
+    "title": "叶利钦总统表示俄金融市场不会崩溃",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "2042c528eb684683bc6e8f0f20580a862bea28086887a9214eff5f41df9ed7c6",
+    "split": "test"
+  },
+  {
+    "id": "19980622-10-006",
+    "label": "金融",
+    "title": "亚洲开发与产业银行协会",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "7bedd748e1d5d000f792953a4ec4d4579cb3261e3fb925d54fe41dace5e32086",
+    "split": "train"
+  },
+  {
+    "id": "19980509-03-006",
+    "label": "金融",
+    "title": "经营不善负债累累乌拉圭欧洲银行倒闭",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "24510422c9714c6b2873d1ebd12ca60f19becff626494b1dd6f6a0cac7b16b04",
+    "split": "train"
+  },
+  {
+    "id": "19980521-07-006",
+    "label": "金融",
+    "title": "墨银行涉嫌洗钱被曝光",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "f24e23c5b05d4a02a09078fdb647f2f3319f05bc563eaff7d92c2320f5c0a98a",
+    "split": "train"
+  },
+  {
+    "id": "19980402-01-007",
+    "label": "金融",
+    "title": "英国工商金融界欢宴朱镕基",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "66377dd91af5349d1e39377a3e82eae6ad6fa41b186954242421ab71450cfc29",
+    "split": "train"
+  },
+  {
+    "id": "19980622-02-011",
+    "label": "金融",
+    "title": "邳州银杏成为『绿色银行』",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "2299da60e2c0acb1dfdea09e0baf36564c01f84c3d42d9931721a50aa8f15206",
+    "split": "train"
+  },
+  {
+    "id": "19980622-04-002",
+    "label": "金融",
+    "title": "金融战线的楷模",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "1da26bd84963e8b44e15fd53778d616c37c84c5eb02142b6add00f6d4acf3abd",
+    "split": "train"
+  },
+  {
+    "id": "19980601-07-005",
+    "label": "金融",
+    "title": "世界银行批准６亿美元对华贷款",
+    "hits": [
+      "银行",
+      "贷款"
+    ],
+    "body_sha256": "93fb87bbeac4200ac187a5ce640fb3b7797b89ad0a9041593aa2ba95b1c47249",
+    "split": "train"
+  },
+  {
+    "id": "19980219-07-003",
+    "label": "金融",
+    "title": "巴西改革银行体系",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "454e9e7193782a0ab02b5575776a08a2c063b89092cf0eb21d782ba64f62ccce",
+    "split": "train"
+  },
+  {
+    "id": "19980430-01-006",
+    "label": "金融",
+    "title": "中国人民银行要求各商业银行加大信贷投入促进住房消费",
+    "hits": [
+      "银行",
+      "信贷"
+    ],
+    "body_sha256": "76edd337a720fdcc45f31ead5d2b5910dbc722fda56891092ac0f37f3c261b3f",
+    "split": "train"
+  },
+  {
+    "id": "19980406-10-005",
+    "label": "金融",
+    "title": "为骗保险赔款１５０万狠心女子杀死未婚夫",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "7f3363a9d1a9b817855cf3243345f37d6d66b5791ab6b77e002f7a83af5a0145",
+    "split": "train"
+  },
+  {
+    "id": "19980123-08-007",
+    "label": "金融",
+    "title": "东洋证券杯围棋赛首轮常昊遭淘汰周鹤洋再战赵治勋",
+    "hits": [
+      "证券"
+    ],
+    "body_sha256": "6a8c3a8249a1bb95bffbdb0dd4d923d892999d30411f6e0eb4ce11893e1bc034",
+    "split": "train"
+  },
+  {
+    "id": "19980414-02-011",
+    "label": "金融",
+    "title": "江苏成立保险行业协会",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "804b273a581246209ee03acd1c2e1e27a1c1066c162c45951503011c0a460282",
+    "split": "train"
+  },
+  {
+    "id": "19980603-07-003",
+    "label": "金融",
+    "title": "生存比面子重要———日兴证券与美旅行者集团资本重组",
+    "hits": [
+      "证券"
+    ],
+    "body_sha256": "090f99a975e4ca1f0996dfa7c976821fb60334f89b7805a4f30606d5ae12c56b",
+    "split": "train"
+  },
+  {
+    "id": "19980418-02-010",
+    "label": "金融",
+    "title": "建行成为兴华证券投资基金托管银行",
+    "hits": [
+      "银行",
+      "证券"
+    ],
+    "body_sha256": "bb076150a946b2ad114077851989e7d0ae1ac4d6c2bfb69012837de83b299182",
+    "split": "train"
+  },
+  {
+    "id": "19980216-01-003",
+    "label": "金融",
+    "title": "李鹏出席荷兰金融界欢迎午宴",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "1853f2fd538a9e65cd6c317bfb5086f424478640ad5ae05e170b5f6fdbd8ac47",
+    "split": "train"
+  },
+  {
+    "id": "19980528-07-002",
+    "label": "金融",
+    "title": "世行推迟对印贷款观察家认为与印核试有关",
+    "hits": [
+      "贷款"
+    ],
+    "body_sha256": "dd94ca281e4d9b9a5a60645989f146c550aa2305ba2401f258fc0c941885d699",
+    "split": "train"
+  },
+  {
+    "id": "19980529-04-006",
+    "label": "金融",
+    "title": "研讨东南亚金融危机情况下我国经济发展",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "85be56838e7b34199a5d4dc47709d14379d19cb8159a124ea395c06404353200",
+    "split": "train"
+  },
+  {
+    "id": "19980621-02-002",
+    "label": "金融",
+    "title": "紧急货币会议发表声明要求日本重新构筑金融体系",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "482398a75d1c57cfddd6c1c9bb0585cde6baeec5a406b2eb7f4a37b764a77148",
+    "split": "train"
+  },
+  {
+    "id": "19980105-10-001",
+    "label": "金融",
+    "title": "东南亚金融危机的启示：苍蝇不叮无缝的蛋（附图片１张）",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "18e126368e759a8d71931f37cc6294e76b27cd3ea29cd6afea1829848fa05729",
+    "split": "train"
+  },
+  {
+    "id": "19980530-03-010",
+    "label": "金融",
+    "title": "纽约股市反弹",
+    "hits": [
+      "股市"
+    ],
+    "body_sha256": "37943fe0a98e34d9ca597e4087d8fb51e678d62b6162cbbba006a557164aec08",
+    "split": "train"
+  },
+  {
+    "id": "19980607-04-012",
+    "label": "金融",
+    "title": "上海人均保险支出超过京穗调整基本养老金与全国并轨",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "877476d458b43834ad0b8634f4ce17b0348e9f249811deae86792b8c2a592282",
+    "split": "train"
+  },
+  {
+    "id": "19980212-07-003",
+    "label": "金融",
+    "title": "道指又创历史新高英法股市均告上扬",
+    "hits": [
+      "股市"
+    ],
+    "body_sha256": "60ff3e8cedcda8f5108396f4277617b275ee6e2c1529cae0ec364953fe3c0c2f",
+    "split": "train"
+  },
+  {
+    "id": "19980301-03-001",
+    "label": "金融",
+    "title": "香港外汇储备九百八十一亿美元比去年底增五十三亿美元位列世界第三",
+    "hits": [
+      "外汇"
+    ],
+    "body_sha256": "dfe4b7cb710a9f274719761841e4448a32ee45816fd23c88759e7e1ab964022a",
+    "split": "train"
+  },
+  {
+    "id": "19980422-07-003",
+    "label": "金融",
+    "title": "稳定汇率抑制通胀印尼央行再次提高有价证券利率",
+    "hits": [
+      "证券",
+      "利率"
+    ],
+    "body_sha256": "3afea620f22c565e147c6ea5797f7267b41014523e5eebd38f0519fba63fdda6",
+    "split": "train"
+  },
+  {
+    "id": "19980226-07-008",
+    "label": "金融",
+    "title": "东亚金融市场新态势",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "c1ab672b326d6948f45db5e5ab19bcfb82cf8e2ddfd95ed7e308c66beb25b613",
+    "split": "train"
+  },
+  {
+    "id": "19980315-05-005",
+    "label": "金融",
+    "title": "建立金融风险防范机制",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "2dc55c897f676c4cc9bbde578102d551de80dcd3323ed7800637a64bdbf2f2cd",
+    "split": "train"
+  },
+  {
+    "id": "19980302-10-009",
+    "label": "金融",
+    "title": "鲁养老保险机构改吃“皇粮”",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "0b5ff0352a8f847e01ac8973f93f52e7cdd46974e95648f95f05e0325aadc470",
+    "split": "train"
+  },
+  {
+    "id": "19980116-11-005",
+    "label": "金融",
+    "title": "“抢银行”（附图片１张）",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "ad24ebd80684848efbd56e58d9f18d936ebeb2bcadc8948df801bc2c2a747ec2",
+    "split": "train"
+  },
+  {
+    "id": "19980525-10-013",
+    "label": "金融",
+    "title": "本报讯江苏省无锡市日前开办同城银行票据交换专递业务。",
+    "hits": [
+      "银行"
+    ],
+    "body_sha256": "8d3c25ac53b561c03ab1c0e8d9cc962cc4f9924d96a1d899a55e5bbfcb814193",
+    "split": "train"
+  },
+  {
+    "id": "19980115-07-002",
+    "label": "金融",
+    "title": "东亚经济传真泰国继续应对金融动荡日本经济持续停滞不前",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "b039e3196aa8d5d19ca172106d99e328ce1e1ea21d9721147cfecc6e03a28682",
+    "split": "train"
+  },
+  {
+    "id": "19980112-10-007",
+    "label": "金融",
+    "title": "上周股市概览",
+    "hits": [
+      "股市"
+    ],
+    "body_sha256": "7a7a94c2bd496b3bd5a7a6fa15bcd3534bb3ca060d25c1cc0133179e1ea1a65f",
+    "split": "train"
+  },
+  {
+    "id": "19980601-10-006",
+    "label": "金融",
+    "title": "上周股市概览",
+    "hits": [
+      "股市"
+    ],
+    "body_sha256": "868376d4529e367fbcc2e58b596014326160d08f7640ebea061ed1f01d13ca59",
+    "split": "train"
+  },
+  {
+    "id": "19980319-06-013",
+    "label": "金融",
+    "title": "菲同意货币基金组织新贷款",
+    "hits": [
+      "贷款"
+    ],
+    "body_sha256": "3e244ff68ad91f1709f8f629b9e21c244903d54dc91371925dcb5d8e0b353d97",
+    "split": "train"
+  },
+  {
+    "id": "19980122-02-003",
+    "label": "金融",
+    "title": "人民银行确定１９９８年信贷重点",
+    "hits": [
+      "银行",
+      "信贷"
+    ],
+    "body_sha256": "ac286733c45c84226889380af2c7226091582b791ae45ca7919ac5e7d446f41a",
+    "split": "train"
+  },
+  {
+    "id": "19980417-02-005",
+    "label": "金融",
+    "title": "阜平信用联社防范金融风险",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "637a917482ec51b9ce57bfafc3b720b1131fdc89a8d04d23c3109e3ff3bb5feb",
+    "split": "train"
+  },
+  {
+    "id": "19980626-07-009",
+    "label": "金融",
+    "title": "我仍是世行最大贷款国",
+    "hits": [
+      "贷款"
+    ],
+    "body_sha256": "9a62c3a0c84451d9f1972602efc1440502a055c3a11b67ac6a0b4890da9e496a",
+    "split": "train"
+  },
+  {
+    "id": "19980416-10-004",
+    "label": "金融",
+    "title": "《商业银行防范化解金融风险案例研究》",
+    "hits": [
+      "银行",
+      "金融"
+    ],
+    "body_sha256": "5cf311f07eafaa563a2fcf9400e3b09aad23c958792192dbbe497d83bcff2da4",
+    "split": "train"
+  },
+  {
+    "id": "19980129-03-010",
+    "label": "金融",
+    "title": "克林顿发表国情咨文强调实现预算平衡关注东亚金融形势",
+    "hits": [
+      "金融"
+    ],
+    "body_sha256": "4e4737dfd54be48b2c1afbf3a9c6648c33e5eb07cff1552fdb29aed8b4467473",
+    "split": "train"
+  },
+  {
+    "id": "19980421-04-011",
+    "label": "金融",
+    "title": "中国将进一步利用外国政府贷款支持中西部发展",
+    "hits": [
+      "贷款"
+    ],
+    "body_sha256": "2fa419a61dda30133e6c2ba14bf5205c838e7a1e37a8e20f3f962040ee985325",
+    "split": "train"
+  },
+  {
+    "id": "19980504-12-002",
+    "label": "金融",
+    "title": "培育成熟的保险市场",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "f2cacfcbe82aa5218c7f24b08f59f9ae0a3e4a998b6985e542950de7e609029c",
+    "split": "train"
+  },
+  {
+    "id": "19980126-10-001",
+    "label": "金融",
+    "title": "银行信贷莫忘小企",
+    "hits": [
+      "银行",
+      "信贷"
+    ],
+    "body_sha256": "4413d1ec80be0ba83a2d0a98d449d8acb1dd498698bfe3e28292dbac35cc37b6",
+    "split": "train"
+  },
+  {
+    "id": "19980420-07-004",
+    "label": "金融",
+    "title": "东欧混合型养老保险",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "af593b01077855d396daebbdd84ca961e12f5f9374a22673dd936ac8de4f3db1",
+    "split": "train"
+  },
+  {
+    "id": "19980126-10-011",
+    "label": "金融",
+    "title": "上周股市概览",
+    "hits": [
+      "股市"
+    ],
+    "body_sha256": "8b2ce257f96db5c67d07fad19db23b965b6c83a690b0fac2b570d49a40363c02",
+    "split": "train"
+  },
+  {
+    "id": "19980504-12-001",
+    "label": "金融",
+    "title": "发展商业保险提供风险保障遏制保险欺诈",
+    "hits": [
+      "保险"
+    ],
+    "body_sha256": "53cf6bcbb434aa7d6aa8adbcf7ef55909e08d84ae0ae666b7764ebbf648a1bb5",
+    "split": "train"
+  },
+  {
+    "id": "19980316-10-008",
+    "label": "金融",
+    "title": "上周股市概览",
+    "hits": [
+      "股市"
+    ],
+    "body_sha256": "1800848e21c8451a0c5656e23fa6910bb5fcff2c0c051df8cd282141eb3bf75a",
+    "split": "train"
+  },
+  {
+    "id": "19980612-02-004",
+    "label": "金融",
+    "title": "泉州企业逃废债务银行贷款有去无还",
+    "hits": [
+      "银行",
+      "贷款"
+    ],
+    "body_sha256": "f294c122082c21d643976f1c954189608b8cf55d17fe33c575d1cb874112c2f3",
+    "split": "train"
+  },
+  {
+    "id": "19980504-12-004",
+    "label": "金融",
+    "title": "利率变化对寿险有何影响？",
+    "hits": [
+      "利率"
+    ],
+    "body_sha256": "07b716fe48d16959505941c92f495667f9aa2276af1f8c737f854eb18ba70f75",
+    "split": "train"
+  },
+  {
+    "id": "19980401-01-006",
+    "label": "金融",
+    "title": "工行向四家大企业提供贷款",
+    "hits": [
+      "贷款"
+    ],
+    "body_sha256": "106ed4c9ae60de63c5f68b2beab0f02cf86b774ea93ed4bc42512b7c0bdcbea8",
+    "split": "train"
+  },
+  {
+    "id": "19980529-08-005",
+    "label": "教育",
+    "title": "勇于挑战－－－写在北京大学登山队庆功之际",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "8c9f9befb876dd508cfd1ca94572050a9a56cda2ed0aba751deb6733a92bb32c",
+    "split": "test"
+  },
+  {
+    "id": "19980523-07-006",
+    "label": "教育",
+    "title": "为更多的人创造发展的机会促进高等教育大众化（附图片１张）",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "446c95d7262c44168d40c36ccf94b8776f5fbdbf45f13f6c9b0214b522e4cfdf",
+    "split": "test"
+  },
+  {
+    "id": "19980212-03-003",
+    "label": "教育",
+    "title": "强化思想政治教育重视业务技术培训海军广州军代表局加强队伍建设",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "a5ea4db8bdcbd72193a0990960d1a6a3a595cbf3fbac175213adb3dda1fbc4f8",
+    "split": "test"
+  },
+  {
+    "id": "19980526-05-004",
+    "label": "教育",
+    "title": "冀州科教兴市行胜于言今年投资３６００多万新建教学楼１８座",
+    "hits": [
+      "教学"
+    ],
+    "body_sha256": "fd776a3c1673f10c0fcc0e1fb288524531b07432d9cb493a6f0658fe323c2476",
+    "split": "test"
+  },
+  {
+    "id": "19980410-07-007",
+    "label": "教育",
+    "title": "美兴起远距离教学",
+    "hits": [
+      "教学"
+    ],
+    "body_sha256": "0080794dab702201de7cbf8255f9ebdc20a08aa5fd596ce9080c7bfd17a420cc",
+    "split": "test"
+  },
+  {
+    "id": "19980601-05-014",
+    "label": "教育",
+    "title": "中学生百科全书赠送贫困县中学",
+    "hits": [
+      "中学"
+    ],
+    "body_sha256": "3d0e14ee454fa3a208a93613da0b20fc6de30e9d8b6dc4564d9a29609a98a614",
+    "split": "test"
+  },
+  {
+    "id": "19980610-01-008",
+    "label": "教育",
+    "title": "李岚清参观全国禁毒展览时强调在广大青少年中开展禁毒教育",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "6b5591abf50943424fe7083a76d4f6919e9f6b69c667b344a3236e72984bf667",
+    "split": "test"
+  },
+  {
+    "id": "19980408-05-003",
+    "label": "教育",
+    "title": "全国高考考风考纪电话电视会议强调严肃考风考纪禁止违纪舞弊",
+    "hits": [
+      "高考"
+    ],
+    "body_sha256": "1da640b30e911aead0109c53b8a998bb694762e26472248e3540bd130e38b4e0",
+    "split": "test"
+  },
+  {
+    "id": "19980208-04-011",
+    "label": "教育",
+    "title": "多学真本事强化基本功武汉小学教师也做『寒假作业』",
+    "hits": [
+      "小学",
+      "教师"
+    ],
+    "body_sha256": "bdd2e9e2bb19174be3b504fb0b6f2a7dcf4718d447ca4613d4cba8ba96392317",
+    "split": "test"
+  },
+  {
+    "id": "19980612-01-008",
+    "label": "教育",
+    "title": "李岚清在学习邓小平教育理论座谈会上强调",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "f19be41095e632679859a05146dbc7462b9526f70439a69c9faf82317506b493",
+    "split": "test"
+  },
+  {
+    "id": "19980608-03-002",
+    "label": "教育",
+    "title": "弘扬正气查找问题浙江政法队伍教育整顿动真格",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "83b249fe23a91d5955cf71d9ae8fc21339d8c160c0ddc6f301c036ed96dc7ae3",
+    "split": "test"
+  },
+  {
+    "id": "19980427-04-006",
+    "label": "教育",
+    "title": "乔晓阳汇报高等教育法草案修改意见高教法草案修改稿基本可行",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "a3e4a3568b283271cc6c709c614a76545519fbae62eda9175f68b4ef5e607c39",
+    "split": "test"
+  },
+  {
+    "id": "19980529-01-003",
+    "label": "教育",
+    "title": "优秀影视片陶冶青少年高尚理想情操江泽民总书记热情关心影视教育工作",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "11da2c5cb0d269f5084cc53260e62f673ec9d42ff7c94bb0deaec9c4273383ad",
+    "split": "train"
+  },
+  {
+    "id": "19980628-04-005",
+    "label": "教育",
+    "title": "柳州国税局重视人才培养鼓励干部职工接受高等教育",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "45aa252b9672c57f94a5221f4d89e95a30deca6263c9a792b1c234c2ca68f991",
+    "split": "train"
+  },
+  {
+    "id": "19980504-05-006",
+    "label": "教育",
+    "title": "北京大学百年华诞纪念卡发行",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "38769aed815eca50b00aeda0c7b43faae626afd949e8282b113858e5d18b5f2f",
+    "split": "train"
+  },
+  {
+    "id": "19980418-07-005",
+    "label": "教育",
+    "title": "直面转型期社会－－－社会学在中国人民大学",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "598b961c901c7fd330bb9bb1c87472721e497e1c0cb52265ac40841bf3f315b0",
+    "split": "train"
+  },
+  {
+    "id": "19980119-05-002",
+    "label": "教育",
+    "title": "国家教委工作会议提出教育改革要加快步伐",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "318dc2b4aa6cd7c48865ddf72667c75d7b181fa1a74d52871e58458068f6f97d",
+    "split": "train"
+  },
+  {
+    "id": "19980405-02-005",
+    "label": "教育",
+    "title": "新四军老战士捐资建希望小学",
+    "hits": [
+      "小学"
+    ],
+    "body_sha256": "5665f620dbd5af29344f038c8f45bc90e163077b1bce1e63b864d004b3efe4e7",
+    "split": "train"
+  },
+  {
+    "id": "19980628-04-002",
+    "label": "教育",
+    "title": "投资八亿元惠及七十三个县云南教育扶贫工程启动",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "4806398d10f053c2868e64cd798f9ca5c8ac81a2424ae5fc42b7435b19b2e92d",
+    "split": "train"
+  },
+  {
+    "id": "19980414-05-003",
+    "label": "教育",
+    "title": "青春期健康教育计划启动",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "8e62e815fe7e073cf2d4bcf0a9d50286a1e032aef95930d87159eb1196a80cff",
+    "split": "train"
+  },
+  {
+    "id": "19980513-04-001",
+    "label": "教育",
+    "title": "中宣部教育部通知要求高校开设『邓小平理论概论』课（附图片１张）",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "1f84df8bbcd927e614a78a5061559ab4a3d99ea89d12a9580fa702fe461c7f05",
+    "split": "train"
+  },
+  {
+    "id": "19980527-05-001",
+    "label": "教育",
+    "title": "为了“哨塔下的孩子”———沈阳军区干部子女学校纪事（附图片１张）",
+    "hits": [
+      "学校"
+    ],
+    "body_sha256": "c9adfdd039a8d3761e99c12995efdc1aedcf3b07b17f8a88b5707840a03d186e",
+    "split": "train"
+  },
+  {
+    "id": "19980430-01-001",
+    "label": "教育",
+    "title": "江泽民总书记考察北京大学时强调",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "f48f125a2da2e33fdd50de33fb70e61945ccbe4448acf2114c98186baf16edbf",
+    "split": "train"
+  },
+  {
+    "id": "19980418-07-004",
+    "label": "教育",
+    "title": "暨南大学出版社校勘出版《花笺记》“第八才子书”重归故里",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "b8a2528747b90f4461efecfe2039842737d118452124768192c0c38aef28c019",
+    "split": "train"
+  },
+  {
+    "id": "19980604-11-005",
+    "label": "教育",
+    "title": "家庭教育让家长做什么",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "cfaae97cad7b92a49c1cbbc59f1c3b10ce8db045819201ed9000819c0b9c2ce0",
+    "split": "train"
+  },
+  {
+    "id": "19980522-05-003",
+    "label": "教育",
+    "title": "高等教育的根本任务－－－培养创造未来的人才（附图片１张）",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "8b216dc89951903bed16873069c30f1ef06575e86d82c4715b229d06eb857760",
+    "split": "train"
+  },
+  {
+    "id": "19980521-09-007",
+    "label": "教育",
+    "title": "平原田间学校喜煞庄稼人",
+    "hits": [
+      "学校"
+    ],
+    "body_sha256": "3df488e4338abdbc81f2974ccfeeee44b45afb5a4bd8fd30f57311516b63f536",
+    "split": "train"
+  },
+  {
+    "id": "19980325-03-001",
+    "label": "教育",
+    "title": "为经济建设服务为党的建设服务全国党员电化教育网络初步形成",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "e7707dd5a5d1675bacd17a664354a5bd56d49b04186f575946c7b7a63558b7f9",
+    "split": "train"
+  },
+  {
+    "id": "19980210-05-003",
+    "label": "教育",
+    "title": "教育兴万事通－－慈溪市重教兴学侧记",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "b31e5ea4625dfb09482612de8d4932a6d8bf61c06a6d62540e53a314354dfa78",
+    "split": "train"
+  },
+  {
+    "id": "19980120-11-006",
+    "label": "教育",
+    "title": "成人素质教育新探",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "dd2ab69488c3c41b042fd6135ade9253f02684f94d86bc2e49aecbee6a300287",
+    "split": "train"
+  },
+  {
+    "id": "19980307-05-003",
+    "label": "教育",
+    "title": "国家教委有关负责人说今年高考命题原则不变",
+    "hits": [
+      "高考"
+    ],
+    "body_sha256": "086f1e67eae63082dcdf2f16926354de94572c6d9195607f984497e1f8f32540",
+    "split": "train"
+  },
+  {
+    "id": "19980413-05-004",
+    "label": "教育",
+    "title": "天津河西区开辟素质教育实验小区",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "794bbcaa6c8ea6557e5c460e29e3e26520aae0964f01ca2d5c841406ef7d3c3f",
+    "split": "train"
+  },
+  {
+    "id": "19980217-07-009",
+    "label": "教育",
+    "title": "柏林中小学生积极清除垃圾",
+    "hits": [
+      "小学"
+    ],
+    "body_sha256": "5ff3daaa6153bf14e4ffcfd74e503ccd425dbb34904a9e95bf39161b22b47d0b",
+    "split": "train"
+  },
+  {
+    "id": "19980623-09-007",
+    "label": "教育",
+    "title": "面向全体学生促进全面发展诸暨中学育“全才”",
+    "hits": [
+      "中学"
+    ],
+    "body_sha256": "b07dc2d75320e1383b0be4f35a371bc2b6d750ac7e2d3ca21afd00f926657e6e",
+    "split": "train"
+  },
+  {
+    "id": "19980413-01-005",
+    "label": "教育",
+    "title": "青海８００多大学生志愿去农牧区",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "6788669ecd3019ec2af8df3eef5429678ac5134fb8d04b3bba362a18748b7c6e",
+    "split": "train"
+  },
+  {
+    "id": "19980215-04-008",
+    "label": "教育",
+    "title": "大学生缘何不恋家",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "a09b0c68a5f6445ee2cd964776abe487469526a7e088515eec6ff7080cda6044",
+    "split": "train"
+  },
+  {
+    "id": "19980324-05-002",
+    "label": "教育",
+    "title": "教育面对新挑战——哈佛大学校长在北京大学演讲侧记",
+    "hits": [
+      "教育",
+      "学校",
+      "大学"
+    ],
+    "body_sha256": "1f01cfa2bb8129c0b3b86786d9b0d12b916b17638e0f01231afffd1eb2ed8666",
+    "split": "train"
+  },
+  {
+    "id": "19980116-06-004",
+    "label": "教育",
+    "title": "校园打工求自立",
+    "hits": [
+      "校园"
+    ],
+    "body_sha256": "bbc588dbbd713bc034354cf95c2f718c2cc0d79b528a1702bdbde4697472a113",
+    "split": "train"
+  },
+  {
+    "id": "19980522-05-007",
+    "label": "教育",
+    "title": "转变教育观念的关键－－－转变教育管理思想（附图片１张）",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "8ea248629eae4a55ec7490a47c2ccf81527d8bcc6871c40296e3abb643df8879",
+    "split": "train"
+  },
+  {
+    "id": "19980418-01-002",
+    "label": "教育",
+    "title": "服从大局支持改革全军和武警部队开展教育成效显著",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "f3f88576c163b6380b1111ae2c52ac50e9aa83af22bf2d7a912db87c8666564f",
+    "split": "train"
+  },
+  {
+    "id": "19980603-03-009",
+    "label": "教育",
+    "title": "完善党员教育管理增强党员队伍活力民航吉林省管理局加强党组织建设",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "a2e165dd43f49bf7e2f9c954235fd1c937ab06e8ded72899386016dccd95d18a",
+    "split": "train"
+  },
+  {
+    "id": "19980423-05-011",
+    "label": "教育",
+    "title": "《素质教育文库》寓教于乐４０００所希望小学喜获捐赠",
+    "hits": [
+      "教育",
+      "小学"
+    ],
+    "body_sha256": "6f8f64b3ed061a6b952236d343a109e7f8f5e4ddc84b886b00447f02b4a4373c",
+    "split": "train"
+  },
+  {
+    "id": "19980508-01-001",
+    "label": "教育",
+    "title": "国家教育扶贫工程转向西部地区今后三年将投入五十四亿元办学",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "e8fa6065af16f154d9299a999820818532148ba7115fb031e24dbc7806e11fc1",
+    "split": "train"
+  },
+  {
+    "id": "19980530-06-012",
+    "label": "教育",
+    "title": "四百多名大学生落户罗庄",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "9ca3880c29549e9bacd216735982ee956280cc5ce58e9eb8ded91c472d6e4d29",
+    "split": "train"
+  },
+  {
+    "id": "19980612-05-005",
+    "label": "教育",
+    "title": "上海教育投入迅速增长",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "ba55d74670431104dadee4e76ba064b112840db8eb3e6cf0197ad2245bf3e024",
+    "split": "train"
+  },
+  {
+    "id": "19980417-05-009",
+    "label": "教育",
+    "title": "中国知识产权教学楼落成",
+    "hits": [
+      "教学"
+    ],
+    "body_sha256": "05440bd92e0b87524c98b760fa7352486cede5bc0ce8e7ebee53c84a04d8e0fb",
+    "split": "train"
+  },
+  {
+    "id": "19980507-11-003",
+    "label": "教育",
+    "title": "探索中国特色社会主义教育学－－－《蒋南翔文集》读后感",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "5a4a2091e21b46baee125ba4b666a03df022e9ae05ac01c93e45177c51839dec",
+    "split": "train"
+  },
+  {
+    "id": "19980604-03-003",
+    "label": "教育",
+    "title": "坚持职业道德教育完善监督指导机制浙江电力系统加强行风建设",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "9e53dfbdc34296a08cd2b42f784f2a79bf7a6395b4fee2070e6f1483008a6574",
+    "split": "train"
+  },
+  {
+    "id": "19980430-03-003",
+    "label": "教育",
+    "title": "乔晓阳汇报高等教育法草案的修改意见",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "2083e826a564d98a7fa164a1cff7da1a4228875c70caa92c444b8539cd486992",
+    "split": "train"
+  },
+  {
+    "id": "19980602-10-005",
+    "label": "教育",
+    "title": "从时代的视角思考干部教育问题",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "77bde8f6cceb7c255d82dee4161c82bd569705f6af9e27a8f188ff5186d54722",
+    "split": "train"
+  },
+  {
+    "id": "19980417-05-006",
+    "label": "教育",
+    "title": "取消重点初中实施就近入学北京小学毕业生全部免试升学",
+    "hits": [
+      "小学"
+    ],
+    "body_sha256": "0b121748768ea28a7e2412258ef02783fad98ac2b05badb3b9b1594bb8f0985d",
+    "split": "train"
+  },
+  {
+    "id": "19980220-06-010",
+    "label": "教育",
+    "title": "朱琳参观莫斯科１５３５中学",
+    "hits": [
+      "中学"
+    ],
+    "body_sha256": "a0f732ca9db71d0618900a64eab5ffc2d79be7a35ec6db7c6bc4e772598e94d4",
+    "split": "train"
+  },
+  {
+    "id": "19980611-04-005",
+    "label": "教育",
+    "title": "中宣部、教育部、团中央、全国学联联合发出通知",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "74865c33ae0e9b2144705bb412cb3a743f30d2003d1dda021718485a55224ca9",
+    "split": "train"
+  },
+  {
+    "id": "19980506-03-004",
+    "label": "教育",
+    "title": "优秀青年畅谈立志成才五四奖章获得者与北大学生座谈",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "e0a4d62dc90d7a83190d00d72936f4e9265e2acd2200318f6a4f27fc195c1ca3",
+    "split": "train"
+  },
+  {
+    "id": "19980619-05-009",
+    "label": "教育",
+    "title": "天津保持教育经费持续增长",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "3b84f0e3037b0dbce852c4ce27459e10b2527a85533d9da62878499de274a027",
+    "split": "train"
+  },
+  {
+    "id": "19980409-03-005",
+    "label": "教育",
+    "title": "管钱管物先管己法纪教育不放松武警重视后勤机关廉洁自律",
+    "hits": [
+      "教育"
+    ],
+    "body_sha256": "7fc4e90af90e58d33dd5f20c299166a6619b2d6aa0546ba2a63a84ee097da5c9",
+    "split": "train"
+  },
+  {
+    "id": "19980421-01-008",
+    "label": "教育",
+    "title": "李岚清在邓小平理论课教学座谈会上强调",
+    "hits": [
+      "教学"
+    ],
+    "body_sha256": "0da878a5592a8786ea86b498a0f5c2fc300ad38d616435a4a182db421b57f119",
+    "split": "train"
+  },
+  {
+    "id": "19980125-05-002",
+    "label": "教育",
+    "title": "打开针灸原理的大门——记北京医科大学教授韩济生",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "45d5ead998f40ba8dbecd3365889cb41c4c60652cef485b63a40ea5898756a23",
+    "split": "train"
+  },
+  {
+    "id": "19980503-02-003",
+    "label": "教育",
+    "title": "世界著名大学校长相聚北京",
+    "hits": [
+      "学校",
+      "大学"
+    ],
+    "body_sha256": "b48ab263e8e813d25ff1c4a421e0aa57e3f69b6ba467e2410f8ef042935c4203",
+    "split": "train"
+  },
+  {
+    "id": "19980504-01-002",
+    "label": "教育",
+    "title": "百年学府沐春风———三代领导人关怀北京大学",
+    "hits": [
+      "大学"
+    ],
+    "body_sha256": "fd5c97d0f4335bb89c46de963ced860dda386a3c65fb28f8a34cacc4bc88bda8",
+    "split": "train"
+  },
+  {
+    "id": "19980307-02-002",
+    "label": "文化",
+    "title": "要努力改善城乡人民的物质文化生活",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "4202675f18c7060d3ceb6b130e99456c000bcdc61c6377cd23150dd83f5e1ea1",
+    "split": "test"
+  },
+  {
+    "id": "19980505-04-015",
+    "label": "文化",
+    "title": "长春电影节将于八月举行",
+    "hits": [
+      "电影"
+    ],
+    "body_sha256": "ec6920d49d2aed95c057a001cbae6d8074934765dc66fd2036352e86b394bcdf",
+    "split": "test"
+  },
+  {
+    "id": "19980327-05-011",
+    "label": "文化",
+    "title": "中华美食期盼工业化——访中国食文化研究会执行会长杜子端",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "e351b5a190b7860fe5c679bae4a22f839e2763d1321b20a6b7c840ed4f2a9ecb",
+    "split": "test"
+  },
+  {
+    "id": "19980402-11-005",
+    "label": "文化",
+    "title": "郧县：涌现千余文化个体户",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "5fd124fb039f2a61cb7891654979f73daede203aa9de472bdbdc901442acd346",
+    "split": "test"
+  },
+  {
+    "id": "19980221-07-004",
+    "label": "文化",
+    "title": "重现文化中国百年全景北大建立中国文化史光盘资料库",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "f0179ce52490dd4c3077af7174fdc3b45444b0fb2fb991eb1276bf240246d30e",
+    "split": "test"
+  },
+  {
+    "id": "19980207-03-007",
+    "label": "文化",
+    "title": "首届欧亚文化论坛在法举行",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "4fba136a606ef142fa081675d6fa6a694646cb113950f65551fbce4080c25179",
+    "split": "test"
+  },
+  {
+    "id": "19980116-09-009",
+    "label": "文化",
+    "title": "爱山爱水爱家乡爱祖国电视音乐节目准备展播",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "ed6bf119a5c1df0dae28a13219533d29970828c48be7e06e8f937ddb7c36ca81",
+    "split": "test"
+  },
+  {
+    "id": "19980610-05-008",
+    "label": "文化",
+    "title": "南京建成明城垣史博物馆",
+    "hits": [
+      "博物馆"
+    ],
+    "body_sha256": "20a98327711078987293d748a9ccbc9859261ac0766b4f780e4d4dc5c2563bc1",
+    "split": "test"
+  },
+  {
+    "id": "19980216-01-004",
+    "label": "文化",
+    "title": "情系八桂大地——南昆文化之旅首场演出侧记（附图片１张）",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "46653cf171fa9f376efd5fd352b0309880a1a0e538791da134177b0a93211156",
+    "split": "test"
+  },
+  {
+    "id": "19980219-03-006",
+    "label": "文化",
+    "title": "南昆文化列车行程过半２０万各族群众观看表演",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "4800b2606a4d05eb07fce01253be1b71c5dd470fa68a35c4990c9f239690372d",
+    "split": "test"
+  },
+  {
+    "id": "19980125-03-003",
+    "label": "文化",
+    "title": "文化部『三讲』促进组织建设",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "a0ad13136e9535cec024560528d8e274a7478829eb91cf8218d9841b85616ca5",
+    "split": "test"
+  },
+  {
+    "id": "19980312-05-004",
+    "label": "文化",
+    "title": "加强文化事业建设（附图片１张）",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "dc0188635d13845ff8c34bdc4eb01b7763ad232b92ce54a3fc3b51edd80c994b",
+    "split": "test"
+  },
+  {
+    "id": "19980416-12-005",
+    "label": "文化",
+    "title": "他的艺术青春常在———纪念布莱希特百年诞辰",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "aab9cbc64307d8970ca400f99d7b3ec6aac534f1f04518674236bcb5f1e25cde",
+    "split": "train"
+  },
+  {
+    "id": "19980221-07-001",
+    "label": "文化",
+    "title": "常州：文化也是投资环境",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "9a8427cae19acd4e0a13dfc762c8f6510b3f646cb0d7b01a0fcecd7e6807bf2a",
+    "split": "train"
+  },
+  {
+    "id": "19980410-09-007",
+    "label": "文化",
+    "title": "“俄罗斯文化节”将在我国九城市举办",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "3409a753a74f955dec1b1b3eadd4b957f4506d108c8a5a33e72f297cd1ba7e13",
+    "split": "train"
+  },
+  {
+    "id": "19980409-05-004",
+    "label": "文化",
+    "title": "北大同国家文物局联办考古文博院",
+    "hits": [
+      "文物"
+    ],
+    "body_sha256": "ef614efd5b9ec6b0274079837e50da1f71f35933104b2af0042a43f418a41db9",
+    "split": "train"
+  },
+  {
+    "id": "19980402-05-005",
+    "label": "文化",
+    "title": "海尔企业文化进入哈佛课堂",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "ca4161df37392a4c5dd4dfcf5e2cd6582ff9c739fb3929ff3ab69ba2f3e5696d",
+    "split": "train"
+  },
+  {
+    "id": "19980304-06-004",
+    "label": "文化",
+    "title": "大洋彼岸怀伟人－－记纽约周恩来百年诞辰音乐会",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "a4d91814e357114a85a78df6dab07189fcd2e327a9293c9b32c50aba76ed39e8",
+    "split": "train"
+  },
+  {
+    "id": "19980420-04-005",
+    "label": "文化",
+    "title": "澳门博物馆揭幕",
+    "hits": [
+      "博物馆"
+    ],
+    "body_sha256": "6f6c4786ec059bb3ecd58fae2a23809690bced5c792151fcfe64402236296132",
+    "split": "train"
+  },
+  {
+    "id": "19980212-07-005",
+    "label": "文化",
+    "title": "辛德勒电影扬美名遗孀获补助",
+    "hits": [
+      "电影"
+    ],
+    "body_sha256": "f55c0f5bca1eb1b54527f69920424a01b15fc6fee099b4e1a80fc7d371740e6e",
+    "split": "train"
+  },
+  {
+    "id": "19980619-10-010",
+    "label": "文化",
+    "title": "融时代忧患于艺术形象",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "d89031f1a7d1ec3deb117ca8fd4f5d5a7ec392dcf9081e5cb2f5fed90cd1f316",
+    "split": "train"
+  },
+  {
+    "id": "19980126-04-013",
+    "label": "文化",
+    "title": "天津文化佳肴到基层",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "27a5de74a2a88d8022338fbc9e2a32d72815306763733b0620ee53c19cbad991",
+    "split": "train"
+  },
+  {
+    "id": "19980607-02-009",
+    "label": "文化",
+    "title": "第四届神州艺术节在香港开幕",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "11d566daf1b55314130898ca7b973c9e5b7fb7b5b94f8f0064368b253747fb9d",
+    "split": "train"
+  },
+  {
+    "id": "19980619-10-003",
+    "label": "文化",
+    "title": "凝重感人的艺术力量",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "ca334012f4d300383b3dfc65916ce6b04b30b0b7d9488cf9d619f3ae96db6c2b",
+    "split": "train"
+  },
+  {
+    "id": "19980515-10-007",
+    "label": "文化",
+    "title": "玉文化节点缀北大百年华诞",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "59737d45e67358d74fdd3411b2b6c23dcb23528ebef493daa5f083701b7a4984",
+    "split": "train"
+  },
+  {
+    "id": "19980515-10-011",
+    "label": "文化",
+    "title": "『面包车艺术团』受官兵欢迎",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "c5a7e1e4c413818462221ee1997507352d2d1e27150cc8cff08a5e2e73bc04d2",
+    "split": "train"
+  },
+  {
+    "id": "19980214-02-010",
+    "label": "文化",
+    "title": "传达中央关怀播洒精神文明南昆文化列车鸣笛启程",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "b56a6e7fc9cdf17e3c9f8153fc2dd381e0eebe18310e5428d9b4a8a75fad5d14",
+    "split": "train"
+  },
+  {
+    "id": "19980626-11-008",
+    "label": "文化",
+    "title": "“杨萱庭书法展”将举行",
+    "hits": [
+      "书法"
+    ],
+    "body_sha256": "52d3120ed51b6fe1a2ff199608e40e1973cb35e6c21ae0683dc073c21f9806a2",
+    "split": "train"
+  },
+  {
+    "id": "19980522-09-006",
+    "label": "文化",
+    "title": "少儿戏曲荟萃荧屏",
+    "hits": [
+      "戏曲"
+    ],
+    "body_sha256": "4efbaaa7886ed0b4734795519143464d1dc9586ea5a4a3fb0ea4d549777f4a68",
+    "split": "train"
+  },
+  {
+    "id": "19980105-05-009",
+    "label": "文化",
+    "title": "支持舆论监督整顿文化市场福州公开销毁违禁游戏机",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "a6c1f8de55551a80e94e6004d6cfdaf1f9435f448ed7d9ad3065dab2b62e4529",
+    "split": "train"
+  },
+  {
+    "id": "19980523-02-003",
+    "label": "文化",
+    "title": "鲁迅美术学院沈阳音乐学院共庆建院六十周年",
+    "hits": [
+      "音乐",
+      "美术"
+    ],
+    "body_sha256": "29430a7c2d403b71b391b3c24018552bf6a86dddac974b52c8f9512f0f3567a2",
+    "split": "train"
+  },
+  {
+    "id": "19980517-04-009",
+    "label": "文化",
+    "title": "『世界文化景观』更迷人庐山净化旅游市场",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "72550740179eae9af9486261d7cad14efc4178eaa42a5c6fc9ed7b41019c56ee",
+    "split": "train"
+  },
+  {
+    "id": "19980417-04-009",
+    "label": "文化",
+    "title": "’９７采风·新作品汇报音乐会在京举办",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "25ef10f9ef19e5a02997705c46731bab879e5dc758d5f6ccdda14cf5ee7f9654",
+    "split": "train"
+  },
+  {
+    "id": "19980516-01-003",
+    "label": "文化",
+    "title": "为文化个体户喝彩",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "a752b3cff23d3f8ee9d54b30fcebe0a0d741a0f4b426ea78c2c00d8573e296fe",
+    "split": "train"
+  },
+  {
+    "id": "19980417-11-003",
+    "label": "文化",
+    "title": "面对新世纪的思考———关于中年作家的访谈",
+    "hits": [
+      "作家"
+    ],
+    "body_sha256": "76af8bb9a4b7f66d1ad69502f2d082184e0d91cf1d9f68eb5e42f061e5bf0d61",
+    "split": "train"
+  },
+  {
+    "id": "19980410-05-001",
+    "label": "文化",
+    "title": "面向基层抓阵地出人出戏出精品大理大力弘扬民族文化",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "6642fca5ca0f8dedad44fc9d8e3fe04c59b9208a1203f989125f0be2efadf50d",
+    "split": "train"
+  },
+  {
+    "id": "19980320-10-006",
+    "label": "文化",
+    "title": "奏出中华民族的风骨神韵闵惠芬二胡协奏曲专场音乐会将举行",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "12765c8ebbf88add8cc16a1f17caa648881375c28302d30bec361de2f3ca385e",
+    "split": "train"
+  },
+  {
+    "id": "19980505-05-003",
+    "label": "文化",
+    "title": "北大百年校庆交响音乐会举行",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "8aeff31a429b3c05b4351c30ba4142eaedaadbf3e49f02c97e0f9b2521555993",
+    "split": "train"
+  },
+  {
+    "id": "19980524-02-002",
+    "label": "文化",
+    "title": "蛊惑人心的影片———日本电影《自尊》首映侧记（附图片１张）",
+    "hits": [
+      "电影"
+    ],
+    "body_sha256": "e7856a1b14f068a9e5f5fea3f5131302fa584fb8ad37863bf85d4dfa830b50e3",
+    "split": "train"
+  },
+  {
+    "id": "19980612-09-002",
+    "label": "文化",
+    "title": "美术展览谁把关",
+    "hits": [
+      "美术"
+    ],
+    "body_sha256": "868bc7523732367d3395214f05b5fa3083363135b7e8d96e5c77a933831b90cf",
+    "split": "train"
+  },
+  {
+    "id": "19980404-01-004",
+    "label": "文化",
+    "title": "江泽民为中央美术学院题词",
+    "hits": [
+      "美术"
+    ],
+    "body_sha256": "f3e5058fccf8806c2f2d98a2158a78b0be22670c3adf6d0d5e44056c2e6ab9ef",
+    "split": "train"
+  },
+  {
+    "id": "19980103-03-013",
+    "label": "文化",
+    "title": "维也纳新年音乐会为何经久不衰",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "db79561bb145bd3e80fd4005a1955b2a5d174feb0cf19da6b59df99118eb7548",
+    "split": "train"
+  },
+  {
+    "id": "19980620-07-005",
+    "label": "文化",
+    "title": "衡水有家鼻烟壶艺术馆",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "9335f8b33faeaa03f5fcbb1a5babe00427380035302b32e30d5ab314c093e043",
+    "split": "train"
+  },
+  {
+    "id": "19980423-11-008",
+    "label": "文化",
+    "title": "国内首张交互式电影光盘问世",
+    "hits": [
+      "电影"
+    ],
+    "body_sha256": "041b796d594a36046ced016495077328a1d3214111ed02064289e1a56fc22117",
+    "split": "train"
+  },
+  {
+    "id": "19980520-07-001",
+    "label": "文化",
+    "title": "来自太空的『音乐』",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "766fe23a15e377645ed52d0afc3a6bb3e8248a8cfc20a1571d42a62219d1a626",
+    "split": "train"
+  },
+  {
+    "id": "19980313-09-005",
+    "label": "文化",
+    "title": "生命不老艺术常青（附图片１张）",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "3a62066c8fee860475f36a23b5952c849e5960737025dda5c9a4aead687d3ce1",
+    "split": "train"
+  },
+  {
+    "id": "19980405-02-011",
+    "label": "文化",
+    "title": "音乐舞蹈史诗《东方红》将在香港上演",
+    "hits": [
+      "音乐"
+    ],
+    "body_sha256": "a747358ad5fe72fa76c3edfae7ba4457280454ea0910f0517f45e2c9a1eb254c",
+    "split": "train"
+  },
+  {
+    "id": "19980119-07-006",
+    "label": "文化",
+    "title": "斯德哥尔摩：’９８欧洲文化首都",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "770cdbe10a110efb04afb58a894b9f0e470e145f63103ec325b2ab3479a57571",
+    "split": "train"
+  },
+  {
+    "id": "19980226-03-001",
+    "label": "文化",
+    "title": "净化文化市场创造良好环境北京市扫黄打非集中行动出师初捷",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "84338d7b3f9e51ab4530f6607dc2e468baaa9d60958b70abd0f3a9475b68a3e7",
+    "split": "train"
+  },
+  {
+    "id": "19980117-04-007",
+    "label": "文化",
+    "title": "给艺术个性以更加广阔的创作空间",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "270a077aa3f6064d0589e461f6e60334aafaa4f9b38314d58f83d2d353eaa55b",
+    "split": "train"
+  },
+  {
+    "id": "19980321-06-002",
+    "label": "文化",
+    "title": "加强行业文化建设",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "fe0e4dac534146dd33b7fa442e9bd9cf7396a3ae670c86854cd9cb65437812fb",
+    "split": "train"
+  },
+  {
+    "id": "19980513-05-004",
+    "label": "文化",
+    "title": "科普情牵半世纪———记科普作家李元、卞德培",
+    "hits": [
+      "作家"
+    ],
+    "body_sha256": "7088525831d879a9f6f46551041689323de470da97671ebdbd3a625edb7f4572",
+    "split": "train"
+  },
+  {
+    "id": "19980508-10-003",
+    "label": "文化",
+    "title": "亚洲民间艺术节将在昆明举行",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "c275b9ff951f80e2d82bf898862ee2b33a596c6fa811da34314953f2b933888a",
+    "split": "train"
+  },
+  {
+    "id": "19980626-11-003",
+    "label": "文化",
+    "title": "谢云的书法观（附图片１张）",
+    "hits": [
+      "书法"
+    ],
+    "body_sha256": "11c548a7b197bf15d1039166e0b103748665d9448e64ab40f8d44967976289e0",
+    "split": "train"
+  },
+  {
+    "id": "19980604-05-007",
+    "label": "文化",
+    "title": "两院院士捐赠文物",
+    "hits": [
+      "文物"
+    ],
+    "body_sha256": "a7c8cd4b78cd2856b6b180ce682d6572287a2ff8c171db40e33fbd74de18ba51",
+    "split": "train"
+  },
+  {
+    "id": "19980425-02-009",
+    "label": "文化",
+    "title": "黄胄艺术大展在京开展李瑞环出席开幕式",
+    "hits": [
+      "艺术"
+    ],
+    "body_sha256": "6313957720fe9d80dfb9f0bbd7d09248a600d3832be479f5264af39b9e72d59e",
+    "split": "train"
+  },
+  {
+    "id": "19980222-03-004",
+    "label": "文化",
+    "title": "阿根廷的探戈文化（附图片１张）",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "03ee8af6996fca97e783bc3e6e87e47b4be5348bbd1dedf4cf7fb23b6709c2da",
+    "split": "train"
+  },
+  {
+    "id": "19980610-05-002",
+    "label": "文化",
+    "title": "金陵文化风景线华东图书集散地长三角文化市场繁荣有序",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "b94a4d863ccf90933aaee4a6c3324931fb471eed030be5f565666b8179dc1ef7",
+    "split": "train"
+  },
+  {
+    "id": "19980103-04-008",
+    "label": "文化",
+    "title": "伟大的世界奇迹——读长篇报告文学《世界沙漠第一路》",
+    "hits": [
+      "文学"
+    ],
+    "body_sha256": "b8a5754d55857567e25aaf23eaa2ec559fcf447429b1a9656a149cc29125dc40",
+    "split": "train"
+  },
+  {
+    "id": "19980302-03-006",
+    "label": "文化",
+    "title": "八千公里风雨兼程五十万人现场观看南昆文化列车载誉返京",
+    "hits": [
+      "文化"
+    ],
+    "body_sha256": "ceda7005b38461deaae4e117929ff7c01a221c46652cae1f590625e6fa8eeffd",
+    "split": "train"
+  },
+  {
+    "id": "19980112-05-008",
+    "label": "科技",
+    "title": "科技神笔指点江山黄土高原飞架彩虹太原市政工程院善啃硬骨头",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "33b93ee11b6ed591f432d7bb99badce7f54450c0f1fe73f258dd46ae77a668a3",
+    "split": "test"
+  },
+  {
+    "id": "19980626-07-008",
+    "label": "科技",
+    "title": "海王星一卫星变暖表面气温上升二度",
+    "hits": [
+      "卫星"
+    ],
+    "body_sha256": "0f258170a9560a5eee848c9adce2fb205acbc48c58d3e19c844bd4efcf579c30",
+    "split": "test"
+  },
+  {
+    "id": "19980424-05-002",
+    "label": "科技",
+    "title": "实行统一领导科研开发并举国家海洋所主业稳副业活",
+    "hits": [
+      "科研"
+    ],
+    "body_sha256": "292c75901e47a4e4b6b9e32dd49f99a9496771f87773c345105886a93c5acc69",
+    "split": "test"
+  },
+  {
+    "id": "19980407-01-001",
+    "label": "科技",
+    "title": "为地震预报提供科学依据我国大范围布设地壳运动观测网",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "0437cd7b7a87dc9cda4d3dbb4165abf1013978d452e64a90141641bb86f3bbe4",
+    "split": "test"
+  },
+  {
+    "id": "19980528-02-002",
+    "label": "科技",
+    "title": "推出科技兴农新举措财政部百县农技推广示范见成效",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "e5bf88006378dcd4ee1c31578f8b46ecac6559c7d990e842fa52af4ec6b64061",
+    "split": "test"
+  },
+  {
+    "id": "19980318-03-002",
+    "label": "科技",
+    "title": "盐湖科研人的心声———访人大代表马培华（附图片１张）",
+    "hits": [
+      "科研"
+    ],
+    "body_sha256": "de30f78a08728d89167c56f32d1c87c1daef4cf61eaf1f05d090f8947377e969",
+    "split": "test"
+  },
+  {
+    "id": "19980422-04-002",
+    "label": "科技",
+    "title": "中国八位杰出科学家获陈嘉庚奖",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "8cf8ba5c5deecced9ff2c7067178548c9056eb995fcbe85ed36fd2dc38590353",
+    "split": "test"
+  },
+  {
+    "id": "19980214-07-007",
+    "label": "科技",
+    "title": "最新一项调查显示：科技期刊正走俏",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "ffb9e707f16efa401f9d9bbbe44f87ea6164b3b6e65c7f6d410b354403ab93e9",
+    "split": "test"
+  },
+  {
+    "id": "19980430-09-010",
+    "label": "科技",
+    "title": "金乡大蒜靠科技创名牌",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "6b61f3a7868cfd4886abd502ecb8653fdef2d8ca9b2204e998f520e50ddfb241",
+    "split": "test"
+  },
+  {
+    "id": "19980525-05-003",
+    "label": "科技",
+    "title": "英山科技兴茶出效益－－－一斤『春笋』值万金",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "4a3e302b290471ada8921263365e8699803ce58876334b0527424ca8b1376d0a",
+    "split": "test"
+  },
+  {
+    "id": "19980109-01-005",
+    "label": "科技",
+    "title": "国家科技领导小组召开会议",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "bed1be0dd8e8efd14d2b7fb5b3d1f87ec641b293846838b055a14cee966a59bd",
+    "split": "test"
+  },
+  {
+    "id": "19980528-11-008",
+    "label": "科技",
+    "title": "国情与神经科学",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "ef97fb07d71c96e5555ae6efc65051fe3616e8ed4404d5222d9d15c0e7e6e817",
+    "split": "test"
+  },
+  {
+    "id": "19980206-05-002",
+    "label": "科技",
+    "title": "福建十大科技工程热气腾腾去年全省科技贡献率接近４８％",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "121d2515d7b86b98bcc55f929145681495ea053a286d7d7b9e26ea776c0ceeae",
+    "split": "train"
+  },
+  {
+    "id": "19980204-05-007",
+    "label": "科技",
+    "title": "“第一生产力”的实现者——新疆农科院科技兴农速写",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "815a8670ee9bcca1f2b1e912d72312af424759e6e2f3ca51e07b5b40792e62cc",
+    "split": "train"
+  },
+  {
+    "id": "19980423-01-010",
+    "label": "科技",
+    "title": "中国亚太移动通信卫星公司成立",
+    "hits": [
+      "卫星"
+    ],
+    "body_sha256": "a9a09efdc2c8ff089549e589b2a8ee76382738c48b582fa3d8f93f094cd7ca91",
+    "split": "train"
+  },
+  {
+    "id": "19980228-06-009",
+    "label": "科技",
+    "title": "横店集团大举进军高科技产业",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "3ba1195d9c0ac96912cc067e3f626e7b590adaf150d7799de77e192062ab7de9",
+    "split": "train"
+  },
+  {
+    "id": "19980330-02-011",
+    "label": "科技",
+    "title": "长虹集团向高技术冲击",
+    "hits": [
+      "高技术"
+    ],
+    "body_sha256": "a52e11de76befab085b9329ab6981a0205240410ea0b67c36fa0dd8260546315",
+    "split": "train"
+  },
+  {
+    "id": "19980606-01-001",
+    "label": "科技",
+    "title": "我国科技界走向新世纪的盛会",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "ee7041cd5bbfe77ba66aa66014255acb142a16fc85459ff85bd4862631dedb69",
+    "split": "train"
+  },
+  {
+    "id": "19980319-01-002",
+    "label": "科技",
+    "title": "江泽民参加军事科学院４０周年庆祝活动强调",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "4b30878be6881b25831a6dd238f7c559a2fa433dfbf30589fa303cfa0db238f6",
+    "split": "train"
+  },
+  {
+    "id": "19980505-01-001",
+    "label": "科技",
+    "title": "继承爱国进步民主科学光荣传统发扬钻研求实创新向上优良学风",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "4c5b97532ea6ea48b866a42fa84a4eb7e4ce666634f87863e8bf0df1089d3703",
+    "split": "train"
+  },
+  {
+    "id": "19980225-03-008",
+    "label": "科技",
+    "title": "首都科技界结合实际学习邓小平理论抓住机遇迎接挑战",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "8965dea541a99ce9d6473d35cf9193ec84950cd2c0f95afb0998b35efe669137",
+    "split": "train"
+  },
+  {
+    "id": "19980212-05-001",
+    "label": "科技",
+    "title": "古镇科技交响曲－－记改造传统工业的『科技厂长』吕信贻",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "6a825253363782e22bf46ad76ce1fd058f7460ca9fd0b558663a3e932b3e6b76",
+    "split": "train"
+  },
+  {
+    "id": "19980205-01-004",
+    "label": "科技",
+    "title": "全面论述邓小平理论科学体系和深邃思想精华《邓小平理论全书》出版",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "6f1cae3bf9525059cbd32436f3d77edc88d847b54c73ad6ac3472b2e7b71d0f5",
+    "split": "train"
+  },
+  {
+    "id": "19980520-02-005",
+    "label": "科技",
+    "title": "走知识经济发展之路北无与科利华软件集团『联姻』",
+    "hits": [
+      "软件"
+    ],
+    "body_sha256": "c14b6b0e849766a69e80838099f7ad29823b2c3e2e6f3ddaaadedbc5255569ac",
+    "split": "train"
+  },
+  {
+    "id": "19980323-05-003",
+    "label": "科技",
+    "title": "去年六战六捷今年再迎七射航天总公司启动质量振兴计划",
+    "hits": [
+      "航天"
+    ],
+    "body_sha256": "674b56c5b50ef8e99336765f32931d452e7f5215e76f97a8a36c7cc24306a639",
+    "split": "train"
+  },
+  {
+    "id": "19980408-10-005",
+    "label": "科技",
+    "title": "呼唤科技找回市场（图片）",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "865a5f09b370fdc2255ea7d765411b2cdbe8063b05ca975f0a76faf76ed3378d",
+    "split": "train"
+  },
+  {
+    "id": "19980511-05-006",
+    "label": "科技",
+    "title": "振华、王义锡科技扶贫基金颁奖",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "8fd74453f8c991a2529b944e297e0fc7bab407c1322d72aa0f921b84fc30faeb",
+    "split": "train"
+  },
+  {
+    "id": "19980518-05-002",
+    "label": "科技",
+    "title": "给国产卫星安上『眼睛』－－－记中科院上海技术物理所研究员陈桂林",
+    "hits": [
+      "卫星"
+    ],
+    "body_sha256": "c7fa49def905b711d6723de390e6c384af8b70cd912364020fdde615bd770980",
+    "split": "train"
+  },
+  {
+    "id": "19980305-01-003",
+    "label": "科技",
+    "title": "江泽民李瑞环同政协科技界委员座谈",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "c7801e7fb29ae6d9421e38ccd1d7e4fd5a78e258f1d31d4804d733943c6282e0",
+    "split": "train"
+  },
+  {
+    "id": "19980330-05-002",
+    "label": "科技",
+    "title": "新任科学技术部部长朱丽兰畅谈科技四两拨千斤（附图片１张）",
+    "hits": [
+      "科技",
+      "科学"
+    ],
+    "body_sha256": "6a6b35b5db4dd4d3a2041badc273eab8d96dbfb0b373ad50585670a67f2830dd",
+    "split": "train"
+  },
+  {
+    "id": "19980406-04-003",
+    "label": "科技",
+    "title": "科学家对“巫山人”遗址鉴定证实我国２００万年前已出现古人类",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "970faa7090020388f2e1cc89976302dbe79a30edb511122c796a804a41eba368",
+    "split": "train"
+  },
+  {
+    "id": "19980428-05-005",
+    "label": "科技",
+    "title": "建服务体系设专项基金太湖县科技兴林绿满山",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "bdbde1aea671cc16cea9d1ec927b21ccc5d1435118fd463ac877ab3a78b980b5",
+    "split": "train"
+  },
+  {
+    "id": "19980505-10-002",
+    "label": "科技",
+    "title": "集体领导与科学决策",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "e5ba34c9a74188a8691afd8495f8cdbb8259cb3af1d32290990348f4d3f4282a",
+    "split": "train"
+  },
+  {
+    "id": "19980506-07-005",
+    "label": "科技",
+    "title": "通信卫星未入轨月球引力来扶正",
+    "hits": [
+      "卫星"
+    ],
+    "body_sha256": "6b1cc451cf5844ab841df20c22d5cd3495e5aa10639182e56a4b421e8774616b",
+    "split": "train"
+  },
+  {
+    "id": "19980317-09-003",
+    "label": "科技",
+    "title": "科技兴永济（附图片１张）",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "735badacbd161433986b693f18fdfe92bd4ade85de170615422fa9c578ea4f86",
+    "split": "train"
+  },
+  {
+    "id": "19980613-07-003",
+    "label": "科技",
+    "title": "沟通科技与社会",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "23508a796697c6483c3b5a1144b14238a0c06e45501250214ff1ae95d5500eb8",
+    "split": "train"
+  },
+  {
+    "id": "19980331-12-008",
+    "label": "科技",
+    "title": "郁正德搞科研专盯『两头』",
+    "hits": [
+      "科研"
+    ],
+    "body_sha256": "6f71ec1705c6361d19f5693e0ac976b13f0c4abe57c474eb03fa23f711ef7aa8",
+    "split": "train"
+  },
+  {
+    "id": "19980630-05-007",
+    "label": "科技",
+    "title": "宝钢东大联手推进软件规模化",
+    "hits": [
+      "软件"
+    ],
+    "body_sha256": "c3d9d8e928943057cc7382bf82ac4fd8a8a2974bbc0e77442af44e6870a87f0b",
+    "split": "train"
+  },
+  {
+    "id": "19980127-07-001",
+    "label": "科技",
+    "title": "叶利钦总统召开国防会议努力确保俄航天大国地位",
+    "hits": [
+      "航天"
+    ],
+    "body_sha256": "7f9b6596257a5f5cf558875c7322fe64428faca3652f90b5fec313c2a81651fb",
+    "split": "train"
+  },
+  {
+    "id": "19980203-03-010",
+    "label": "科技",
+    "title": "英国“信息交通”堵车“软件蚂蚁”疏散",
+    "hits": [
+      "软件"
+    ],
+    "body_sha256": "8a39341fc41cb83b25a17ec4752321c65258a45f13d2c2e40d7523c2b001a6fc",
+    "split": "train"
+  },
+  {
+    "id": "19980421-05-002",
+    "label": "科技",
+    "title": "“中国机器人之父”报道引起强烈反响沈阳：说不完的蒋新松",
+    "hits": [
+      "机器人"
+    ],
+    "body_sha256": "0fec17770f360b77ee6009420a8ad10adff1a01be8217e56cf2c81de13aa930b",
+    "split": "train"
+  },
+  {
+    "id": "19980607-02-004",
+    "label": "科技",
+    "title": "选准路子培训人才注重效果科技扶贫加快湘南五县脱贫",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "e1efd00f6af38e0eac08e0d9a845727f8d6d656d5613ae17242acdf2404aa790",
+    "split": "train"
+  },
+  {
+    "id": "19980521-05-002",
+    "label": "科技",
+    "title": "全国科技进步示范区发展战略研讨会强调创新是企业发展的动力",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "7d47e28c291dfa7556e378481867d0c87f2ec090640cc5a128ca6d69154c4e2e",
+    "split": "train"
+  },
+  {
+    "id": "19980510-01-004",
+    "label": "科技",
+    "title": "科技强军的重要保证",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "17da18b5da14df1ad7ea7a939c95f1fc061a3a3f115d0821d56a2d95c0b156d2",
+    "split": "train"
+  },
+  {
+    "id": "19980408-05-002",
+    "label": "科技",
+    "title": "带出一流梯队－－－记全国优秀科技工作者葛庭燧院士",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "005fc3a75205b1e64460e69d8b2a1fbe700cc41bbaf2b683c2fb4d94d740dfe3",
+    "split": "train"
+  },
+  {
+    "id": "19980214-07-004",
+    "label": "科技",
+    "title": "肖克莱的遗憾与高技术管理",
+    "hits": [
+      "高技术"
+    ],
+    "body_sha256": "90a3848d0b0d30f7017cb39ad8f851da5d32725518eaed36aeae6e4d1b8bd536",
+    "split": "train"
+  },
+  {
+    "id": "19980427-07-007",
+    "label": "科技",
+    "title": "美宇航员抢修航天飞机空气净化系统",
+    "hits": [
+      "航天"
+    ],
+    "body_sha256": "12fc8e3c64b71cf8a3a20fadaf5a0ba0b648bc88c6603db04711fd0709cae936",
+    "split": "train"
+  },
+  {
+    "id": "19980318-05-006",
+    "label": "科技",
+    "title": "促进科技与经济结合",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "e7437d32ef14ff122914b418e86f39b92c06213e19e064618c67787e03a6265d",
+    "split": "train"
+  },
+  {
+    "id": "19980401-05-007",
+    "label": "科技",
+    "title": "为好马配上好鞍北航推出国产三维加工技术软件",
+    "hits": [
+      "软件"
+    ],
+    "body_sha256": "e113d86bc48872dcb55a798b5fb5dbc048db47f6731d40deb3aa2d11f43ce63e",
+    "split": "train"
+  },
+  {
+    "id": "19980123-06-009",
+    "label": "科技",
+    "title": "向制造新药迈出可喜一步美科学家成功实现克隆牛",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "28849ed3eb8a740cb8b368b7b6f565b946bf9a5046f3f9f8d407dca2c6f52518",
+    "split": "train"
+  },
+  {
+    "id": "19980309-07-005",
+    "label": "科技",
+    "title": "美科学家：月球上有水新一轮月球探索热即将启动（附图片１张）",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "d1575bc1b41946bf935f5a081d0e2b1bdb1c1c6be3c4b5c51461345a42f28eba",
+    "split": "train"
+  },
+  {
+    "id": "19980306-07-004",
+    "label": "科技",
+    "title": "美提出航天重点研究领域",
+    "hits": [
+      "航天"
+    ],
+    "body_sha256": "747439cf23dcf9767e316b7472b79fa6b6f21c43bafb8c9125b7fda92a996d29",
+    "split": "train"
+  },
+  {
+    "id": "19980526-07-002",
+    "label": "科技",
+    "title": "伯杰等谈美中合作发射卫星认为双方合作是“最佳决定”",
+    "hits": [
+      "卫星"
+    ],
+    "body_sha256": "a73e18a50c9abfffa69e2d05d5ac78dd0be6026d2e241905a3db64547ec05329",
+    "split": "train"
+  },
+  {
+    "id": "19980407-04-012",
+    "label": "科技",
+    "title": "我国科学家破解“三峡啼猿”之谜",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "ad5b3cd8c43cc51362373d064fa087849c30b21e8fac135d7808042fb77ebc98",
+    "split": "train"
+  },
+  {
+    "id": "19980415-05-002",
+    "label": "科技",
+    "title": "促进科研生产结合增强技术创新能力３６家企业加盟博士后试点",
+    "hits": [
+      "科研"
+    ],
+    "body_sha256": "b839e1e662ad69501cf8fd5c34afc4d22e5b4452b149fcadde144d330e716111",
+    "split": "train"
+  },
+  {
+    "id": "19980427-07-001",
+    "label": "科技",
+    "title": "用科技开发亚马孙资源———访巴西亚马孙东部地区研究所",
+    "hits": [
+      "科技"
+    ],
+    "body_sha256": "762c89b272cc23de512ebf50352b2f765365356d67ca008e43d426fc45f74f66",
+    "split": "train"
+  },
+  {
+    "id": "19980228-05-001",
+    "label": "科技",
+    "title": "高科技、高技术产业化、知识经济的历史与现状",
+    "hits": [
+      "科技",
+      "高技术"
+    ],
+    "body_sha256": "4f2f429951338105739950f22ff18458c256639d99a866bf72e7046aa611726e",
+    "split": "train"
+  },
+  {
+    "id": "19980612-05-011",
+    "label": "科技",
+    "title": "全国头颈肿瘤外科学术交流会在京举行",
+    "hits": [
+      "科学"
+    ],
+    "body_sha256": "7c21f260e6b1f88ff32a67caba5d3503185b946d2aef97106f4c1d01bb3b7f06",
+    "split": "train"
+  },
+  {
+    "id": "19980422-07-001",
+    "label": "科技",
+    "title": "解决计算机２０００年问题迫在眉睫（附图片１张）",
+    "hits": [
+      "计算机"
+    ],
+    "body_sha256": "12075fd7ee982a476ebff580dc2806196d7a59463fc4795d488c3bc7e10c8fa5",
+    "split": "train"
+  },
+  {
+    "id": "19980618-05-007",
+    "label": "科技",
+    "title": "『中卫—１号』卫星定点成功",
+    "hits": [
+      "卫星"
+    ],
+    "body_sha256": "c3b9edf87cd3cb96ba2030666ae37be5aba8399aa2ba0d81a6e830b277231f95",
+    "split": "train"
+  },
+  {
+    "id": "19980105-05-013",
+    "label": "医疗",
+    "title": "《中国医药企业名典》步入信息高速公路",
+    "hits": [
+      "医药"
+    ],
+    "body_sha256": "33200409ea734cfe2e5bdf6504a60f7bbbfd75b14bf072312f84c0b49e457477",
+    "split": "test"
+  },
+  {
+    "id": "19980217-05-002",
+    "label": "医疗",
+    "title": "彭珮云在全国中医药工作厅局长会议上要求",
+    "hits": [
+      "医药"
+    ],
+    "body_sha256": "7023750e9973728d9ea5f7afb16fe223e48d84ce47281dcc2b95bbf0662c53ff",
+    "split": "test"
+  },
+  {
+    "id": "19980418-03-002",
+    "label": "医疗",
+    "title": "活跃在亚非的白衣使者———我驻赞也埃马四国大使谈中国医疗队",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "1724d9814a8786e49c27e66a4b0154331e2a7a1b6513b9bb14ef29f8f5d08e3d",
+    "split": "test"
+  },
+  {
+    "id": "19980616-12-001",
+    "label": "医疗",
+    "title": "刮目看榕城———福州市创建国家卫生城市活动纪实（附图片２张）",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "e47e6cd811b8721570118a042fc6da1705260244872c0333a27de707bb155a96",
+    "split": "test"
+  },
+  {
+    "id": "19980403-05-003",
+    "label": "医疗",
+    "title": "大夫讲医德病人信得过天津市医疗界打出『信誉牌』",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "506c1fee4e2e8520cec396c8f921df436037995dd50df9c40d1569640b45fb3b",
+    "split": "test"
+  },
+  {
+    "id": "19980321-07-004",
+    "label": "医疗",
+    "title": "居家必备《家庭医生》",
+    "hits": [
+      "医生"
+    ],
+    "body_sha256": "a429edd2e7e1d3ee7b2779f07fbfbb9c0321d3200481c8f2d7388297c73a744e",
+    "split": "test"
+  },
+  {
+    "id": "19980614-02-007",
+    "label": "医疗",
+    "title": "国家药品监督管理局将强化监管职能让老百姓吃上放心药",
+    "hits": [
+      "药品"
+    ],
+    "body_sha256": "0038434a8a023528bc9e17aec356955962f3c1c9bdb5f29fd4f951d0c8ffb624",
+    "split": "test"
+  },
+  {
+    "id": "19980113-03-005",
+    "label": "医疗",
+    "title": "空军昆明医院实行医疗帮困",
+    "hits": [
+      "医疗",
+      "医院"
+    ],
+    "body_sha256": "bf7a14b4f0a349669ff1cba10ed9d11f16cbfa2ea309bff1413e43e36fbdc471",
+    "split": "test"
+  },
+  {
+    "id": "19980413-07-010",
+    "label": "医疗",
+    "title": "美国大力开发生物工程药品",
+    "hits": [
+      "药品"
+    ],
+    "body_sha256": "d3980130050ac9ecadd2a48d36cc6f49e3cbccd63cea4628729a375aa0c4f2b4",
+    "split": "test"
+  },
+  {
+    "id": "19980124-04-008",
+    "label": "医疗",
+    "title": "民政部慰问解放军总医院住院官兵",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "dc267e49036efbc598ca5873e998189a849247810f45b01ee6dcc941308b9eeb",
+    "split": "test"
+  },
+  {
+    "id": "19980607-02-016",
+    "label": "医疗",
+    "title": "国际爱眼日北京复兴医院博爱眼科中心在行动（图片）",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "fd4c2e26afcafa99db3e7d1d33ee07ddf2ea2333026eeff25ab452e9930a30f8",
+    "split": "test"
+  },
+  {
+    "id": "19980601-04-011",
+    "label": "医疗",
+    "title": "北京儿童医院启用排队管理系统",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "af505e85d4d10aecb9d7dbbca59c4c11ce020e28b52110ccb2c343aab909337e",
+    "split": "test"
+  },
+  {
+    "id": "19980611-05-004",
+    "label": "医疗",
+    "title": "为老人建造“安全岛”———记济宁老年心血管病医院",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "a83a3e31d57bfbdf59f4de637bb4e3ff982b744888a42770cb86db4d2090981e",
+    "split": "train"
+  },
+  {
+    "id": "19980212-05-003",
+    "label": "医疗",
+    "title": "全国卫生工作深化改革重点是职工医疗保障、调整资源配置和社区服务",
+    "hits": [
+      "医疗",
+      "卫生"
+    ],
+    "body_sha256": "4d344bc2720663dc951a235c21d33ff35fd2e1cc706fe819e7b78be7cfd69f24",
+    "split": "train"
+  },
+  {
+    "id": "19980602-09-005",
+    "label": "医疗",
+    "title": "哈医大二院－－－送医药下乡设扶贫病房",
+    "hits": [
+      "医药"
+    ],
+    "body_sha256": "a1913f591120f95dd4ae1be0a60f92950c7d2e4e92674c7a5a0a619a735d55b6",
+    "split": "train"
+  },
+  {
+    "id": "19980416-05-006",
+    "label": "医疗",
+    "title": "南京脑科医院为病人办实事",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "c61ba8b0631623a76d91cc162f0a9a600bfd3a693e627d81fa8ad0044af49c1b",
+    "split": "train"
+  },
+  {
+    "id": "19980618-05-002",
+    "label": "医疗",
+    "title": "汇仁医院新疗法新技术形成系列",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "409d7fcc58f78de5a8d6d644f144af0710e62599e099163480542168e5c6a470",
+    "split": "train"
+  },
+  {
+    "id": "19980304-05-003",
+    "label": "医疗",
+    "title": "中外专家携手政府民间相助全国二百万白内障患者复明",
+    "hits": [
+      "患者"
+    ],
+    "body_sha256": "3263c59920fa0e3240d206758014d641d319ddbba0175aa8fde227ee38b78f43",
+    "split": "train"
+  },
+  {
+    "id": "19980116-02-009",
+    "label": "医疗",
+    "title": "治理高定价砍掉大回扣首批中央管理药品价格公布",
+    "hits": [
+      "药品"
+    ],
+    "body_sha256": "4cf418d3ce271398361f8159b91d839189cfa5b6f3f3909a3d974d0358f8cdae",
+    "split": "train"
+  },
+  {
+    "id": "19980312-05-008",
+    "label": "医疗",
+    "title": "促进卫生改革与发展（附图片１张）",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "27498c6a4529368db3ddc5eab503301656b98160a813c85e22e026ddaef74394",
+    "split": "train"
+  },
+  {
+    "id": "19980513-07-001",
+    "label": "医疗",
+    "title": "世界卫生大会坚持原则“台湾观察员地位提案”再告破产",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "94bb84f67d94e766c625441be623fb2bdaf785624a3d152beb16219d1fcd81e9",
+    "split": "train"
+  },
+  {
+    "id": "19980415-11-006",
+    "label": "医疗",
+    "title": "中医药对精神病的治疗",
+    "hits": [
+      "医药"
+    ],
+    "body_sha256": "7309b295a9cd23bef8429685c3dc9de0075858a251c760e107b4306b8b48ac12",
+    "split": "train"
+  },
+  {
+    "id": "19980310-11-006",
+    "label": "医疗",
+    "title": "海军４１２医院拓宽干部发展渠道",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "88a77aa050bf9b8082d9d29daa4b142e80272399102c4689b17d516d46d25bb5",
+    "split": "train"
+  },
+  {
+    "id": "19980619-05-003",
+    "label": "医疗",
+    "title": "全国卫生防疫及救灾防病电话会议提出明确任务完善方案落实措施",
+    "hits": [
+      "卫生",
+      "防疫"
+    ],
+    "body_sha256": "925267fbccc9a2dd12d95543e4fc6688a16f228dde8ee75e8dea99772c4cab12",
+    "split": "train"
+  },
+  {
+    "id": "19980420-05-003",
+    "label": "医疗",
+    "title": "『非洲屋脊』留芳名－－－中国援非医疗队记事",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "d8d5c74bd43faa674c41e57d00d920403013c2b459fb88d2d579f5335506093f",
+    "split": "train"
+  },
+  {
+    "id": "19980206-05-004",
+    "label": "医疗",
+    "title": "保定三院组织专家下乡医疗扶贫献爱心",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "a752724b614db6fc143b9684d510a55d0805d294207c476bbb15ccd2dc298dc7",
+    "split": "train"
+  },
+  {
+    "id": "19980327-05-001",
+    "label": "医疗",
+    "title": "为急危难患者着想南宁二医院开辟『绿色通道』",
+    "hits": [
+      "医院",
+      "患者"
+    ],
+    "body_sha256": "a2f0fb73655a67728d7cd533e916e37608409d362cd359cd96c07864eb3f5122",
+    "split": "train"
+  },
+  {
+    "id": "19980114-11-008",
+    "label": "医疗",
+    "title": "『只想做一个合格的医生』",
+    "hits": [
+      "医生"
+    ],
+    "body_sha256": "a2da172e6ab369a608c3b71e16dd4c9418bb4527db820e274335d0f48a841011",
+    "split": "train"
+  },
+  {
+    "id": "19980116-04-009",
+    "label": "医疗",
+    "title": "北京军区２５１医院在灾区建起临时病房（附图片１张）",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "d6e960b042e7e6ed64a1e5da1661a899386cb7b7a5109aa406743f4ca1bc2702",
+    "split": "train"
+  },
+  {
+    "id": "19980603-05-004",
+    "label": "医疗",
+    "title": "二六四医院为下岗职工办实事",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "5e67baf916dd013fc341ed01cf1eb84497324545f7e7cbbd7ca9942ef37ba2a5",
+    "split": "train"
+  },
+  {
+    "id": "19980512-07-008",
+    "label": "医疗",
+    "title": "第五十一届世界卫生大会开幕",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "208776481abbb1967cb88af6294e87266f186036eb06873fd73348638f6517b7",
+    "split": "train"
+  },
+  {
+    "id": "19980528-07-007",
+    "label": "医疗",
+    "title": "让生病儿童笑起来———访墨西哥戈麦斯儿童医院（附图片１张）",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "fd300d5ba3e14d1dbfc372f80d7adfd696378c4a46e01012e475dd258f9e5bfb",
+    "split": "train"
+  },
+  {
+    "id": "19980414-12-004",
+    "label": "医疗",
+    "title": "做患者的良医益友－－－类风湿专家李振华经验谈",
+    "hits": [
+      "患者"
+    ],
+    "body_sha256": "48cc0dc6ee10048e1dd594221ddd4db0bfdd113cd02876fa1287542427b8b24e",
+    "split": "train"
+  },
+  {
+    "id": "19980518-05-007",
+    "label": "医疗",
+    "title": "国家医疗队赴遵义助残",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "ace581b48fdff81f5ea2832471d453856553d59b0cedeee907d89d14a65288c8",
+    "split": "train"
+  },
+  {
+    "id": "19980601-07-002",
+    "label": "医疗",
+    "title": "“为了宝宝不得病”———墨防疫接种卫生周见闻",
+    "hits": [
+      "卫生",
+      "防疫"
+    ],
+    "body_sha256": "4b6f7690d06c9f1756f616ed0ae8c31440ff60fde802b47fe6f2496e7764c943",
+    "split": "train"
+  },
+  {
+    "id": "19980616-05-006",
+    "label": "医疗",
+    "title": "空军总医院实施冠心病治疗新技术",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "71bf342536dca4ca1996241aeeef81ac2efa7a466a378353abb4853dfc5b9047",
+    "split": "train"
+  },
+  {
+    "id": "19980122-05-004",
+    "label": "医疗",
+    "title": "变坐堂看病为上门行医许昌社区卫生服务方便百姓",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "e4862f983a50ad81f6c15db727d54759a45e12cbaa7bdb191c84334799cee4c8",
+    "split": "train"
+  },
+  {
+    "id": "19980402-05-003",
+    "label": "医疗",
+    "title": "采用高新技术推进梯队建设北京朝阳医院强化特色医疗",
+    "hits": [
+      "医疗",
+      "医院"
+    ],
+    "body_sha256": "045b01d3c5cd7f251744cac96b4c5838a82d9ee680bfe1ab8cd9f5d2a8f01bd8",
+    "split": "train"
+  },
+  {
+    "id": "19980105-05-005",
+    "label": "医疗",
+    "title": "中医不是“慢郎中”对症急诊有绝招中医院遍设急诊科",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "180b39825cc80f193bbe79bae4bd796b83114fc5c8cd2ca3fc7e76fce63b171e",
+    "split": "train"
+  },
+  {
+    "id": "19980215-02-001",
+    "label": "医疗",
+    "title": "全国中医药工作厅局长会议提出推进中医药工作跨世纪发展",
+    "hits": [
+      "医药"
+    ],
+    "body_sha256": "ba9d8fcaac137dc18afdb65a4493352a942d44358a360140c5a1b3dd1488edef",
+    "split": "train"
+  },
+  {
+    "id": "19980518-05-004",
+    "label": "医疗",
+    "title": "沈铁吉林中心医院改革见成效",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "ea617b2ddbabd3f7b72ffb4c03fda0320f8b821a56552a397ab5bbb3fe6921b5",
+    "split": "train"
+  },
+  {
+    "id": "19980209-07-006",
+    "label": "医疗",
+    "title": "英国疯牛病灾气数将尽克雅氏症患者千余",
+    "hits": [
+      "患者"
+    ],
+    "body_sha256": "6752b836fba1d3f6d794e5d7707a4e5f8a40640747fa22326e76241e28acf097",
+    "split": "train"
+  },
+  {
+    "id": "19980111-02-015",
+    "label": "医疗",
+    "title": "保健食品市场整顿巡礼活动开始",
+    "hits": [
+      "保健"
+    ],
+    "body_sha256": "db6412d3c5f00d063967fcc31574d707f6e7eb45a22fb43af885c82b60c8cde5",
+    "split": "train"
+  },
+  {
+    "id": "19980408-01-005",
+    "label": "医疗",
+    "title": "北京纪念世界卫生组织成立５０周年李岚清出席并讲话",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "f6445e1e1ab6aaefdd4009350027b489f44c11369d7b11eec8bd54f4a31d3f5f",
+    "split": "train"
+  },
+  {
+    "id": "19980430-07-003",
+    "label": "医疗",
+    "title": "美民间机构首次向伊拉克空运药品",
+    "hits": [
+      "药品"
+    ],
+    "body_sha256": "935fc7b99a36376cf7da5e8095d8fdcc16cebd90c7b0edff17d554e97c85fc82",
+    "split": "train"
+  },
+  {
+    "id": "19980209-05-003",
+    "label": "医疗",
+    "title": "穷乡僻壤送医真心实意服务长治“白求恩医疗队”感动万千山里人",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "31c42d6417ea775ec0e66634f6b1b966c3fb8146a5bbccbb44b02991eb527ec1",
+    "split": "train"
+  },
+  {
+    "id": "19980421-07-005",
+    "label": "医疗",
+    "title": "宝洁资助中美卫生研究合作项目",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "b6c55750882dad58986dcd237b1c0cbc090d41d16f7dd3e4a147e39c82997550",
+    "split": "train"
+  },
+  {
+    "id": "19980120-12-007",
+    "label": "医疗",
+    "title": "如何给医院打分？",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "ae874413a14a90be6d6c858abd72b0e70bd23963b8c233fd26f66dead4f0ab15",
+    "split": "train"
+  },
+  {
+    "id": "19980427-03-004",
+    "label": "医疗",
+    "title": "爱的使者———解放军第９８医院爱民纪事（附图片１张）",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "240162b7768cae3547b04f4fc4a54805f24051ccb79de9424a1c526a80e3c442",
+    "split": "train"
+  },
+  {
+    "id": "19980605-05-010",
+    "label": "医疗",
+    "title": "苏州医疗器械厂热心为眼疾患者服务",
+    "hits": [
+      "医疗",
+      "患者"
+    ],
+    "body_sha256": "2dd823fa515170e7a293219bbe81d9f67b46681f85a9f24f84ba5d586e734ddc",
+    "split": "train"
+  },
+  {
+    "id": "19980420-03-006",
+    "label": "医疗",
+    "title": "保证人民用药安全有效———访国家药品监督管理局局长郑筱萸",
+    "hits": [
+      "药品"
+    ],
+    "body_sha256": "08d592fa02fbe189fd0884cf8813733a2ba5e0b9256dab244cd9cee18d148c2f",
+    "split": "train"
+  },
+  {
+    "id": "19980113-09-003",
+    "label": "医疗",
+    "title": "济南社区医生入家来",
+    "hits": [
+      "医生"
+    ],
+    "body_sha256": "4430da4a1c5d2d7f2375b00909000b451d26d7698c6b3b7f20d420c7955ec920",
+    "split": "train"
+  },
+  {
+    "id": "19980214-02-013",
+    "label": "医疗",
+    "title": "全国卫生厅局长会议部署今年工作实施区域卫生规划深化医疗卫生改革",
+    "hits": [
+      "医疗",
+      "卫生"
+    ],
+    "body_sha256": "17b0b3bd09b757b5ab8e66920e85399f84fe9f8f16412d3677cb2107aa7a824a",
+    "split": "train"
+  },
+  {
+    "id": "19980622-09-004",
+    "label": "医疗",
+    "title": "药品回扣须标本兼治",
+    "hits": [
+      "药品"
+    ],
+    "body_sha256": "ce29ab9db1f742ad6a21a014d6f62a2f086924883995ecefc3cedabca36b1e91",
+    "split": "train"
+  },
+  {
+    "id": "19980415-05-001",
+    "label": "医疗",
+    "title": "城市文明大合唱－－－江苏卫生城市创建记事",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "e163dc70108568b45cee361e55b9f215fe73b08a244c032b6f50995cff6a6363",
+    "split": "train"
+  },
+  {
+    "id": "19980301-03-004",
+    "label": "医疗",
+    "title": "国家税务总局要求加强对个人从事医疗活动个人所得税征管",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "b1ec233a0ebd2ba2073ec1fba5586f7142ee6a002a3650054b66b1f7119832f2",
+    "split": "train"
+  },
+  {
+    "id": "19980525-03-007",
+    "label": "医疗",
+    "title": "北京军区总医院为下岗职工分忧",
+    "hits": [
+      "医院"
+    ],
+    "body_sha256": "59628a927677a00db1cc2cb6dd033557ab5c51fea73f56b3fe0bad61263f5baf",
+    "split": "train"
+  },
+  {
+    "id": "19980304-10-014",
+    "label": "医疗",
+    "title": "一位援外医疗队员的心声",
+    "hits": [
+      "医疗"
+    ],
+    "body_sha256": "1d4ef203ded0853d973779b48512bdbe81f7c8ff204e6fcdd4dc0e991074ab27",
+    "split": "train"
+  },
+  {
+    "id": "19980630-05-002",
+    "label": "医疗",
+    "title": "首批国家卫生县镇命名",
+    "hits": [
+      "卫生"
+    ],
+    "body_sha256": "058ae6cf1c9f57d4b507422b3d357969f45b7068a7e49ab051e8cf8b7a43a850",
+    "split": "train"
+  },
+  {
+    "id": "19980614-04-004",
+    "label": "医疗",
+    "title": "化隆县乡镇医生工资被挪用青海省领导批示坚决查处",
+    "hits": [
+      "医生"
+    ],
+    "body_sha256": "917af980aaf1360c4128fb33a04b225ca5afb4cb6bd8ff04dd271547fd9fd5ca",
+    "split": "train"
+  },
+  {
+    "id": "19980422-01-001",
+    "label": "农业",
+    "title": "就国企下岗职工再就业和粮食流通体制改革工作",
+    "hits": [
+      "粮食"
+    ],
+    "body_sha256": "522e1640c6196e1c9419a728978d13e9ca8eb1ed3873267e5b503e67ab696561",
+    "split": "test"
+  },
+  {
+    "id": "19980514-09-004",
+    "label": "农业",
+    "title": "靠特色增强竞争力－－－井陉县发展特色农业纪实",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "2b64af34fafdf3522b691fa6a541228b7c4dd77dd4e621a33c5913e9b839aff6",
+    "split": "test"
+  },
+  {
+    "id": "19980320-07-006",
+    "label": "农业",
+    "title": "欧盟修改共同农业政策",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "6dc42bc877ffe2f5052d9304fba3a2bcd05c255de91a21fb16f12b63e453df86",
+    "split": "test"
+  },
+  {
+    "id": "19980604-02-003",
+    "label": "农业",
+    "title": "『三变』增活力－－－武城县粮食系统搞活经营纪实",
+    "hits": [
+      "粮食"
+    ],
+    "body_sha256": "3d832c1f0f12f6fd0154669dccf7edf10b3a2b6af13e492cdffbc8cec06204cf",
+    "split": "test"
+  },
+  {
+    "id": "19980209-05-008",
+    "label": "农业",
+    "title": "农民需要小型计量秤",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "9cbbc3286ce7fec40bd59c4aced4d0bac7557d261b7d775b95be4847b9567904",
+    "split": "test"
+  },
+  {
+    "id": "19980426-04-009",
+    "label": "农业",
+    "title": "严把源头收费实施规范管理福建继续减轻农民负担",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "1a48d85bc7c4f6dec8450a3b00b0412d1cb0249630acff9d7d60c2a1a3bf8900",
+    "split": "test"
+  },
+  {
+    "id": "19980423-09-006",
+    "label": "农业",
+    "title": "农村固定资产闲置应重视",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "13e76fa8e8c04ae4f13282ea284a3a09076c08f0db4538d9271c12af7431c6da",
+    "split": "test"
+  },
+  {
+    "id": "19980610-11-004",
+    "label": "农业",
+    "title": "漳州促进两岸农业合作",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "c46e0ba20f477ad967408bace63f0d1a0bd4f67c2abfba06a52e17073c0775b1",
+    "split": "test"
+  },
+  {
+    "id": "19980204-11-006",
+    "label": "农业",
+    "title": "请为农民工排忧解难",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "61aa99804c9199108a64a10d791cdd23eeda16f243cf0b7066e9717b70e05e70",
+    "split": "test"
+  },
+  {
+    "id": "19980317-05-003",
+    "label": "农业",
+    "title": "湖南向农业强省跨越",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "f8f4670082fe589faa6377a8cc5bc085edac528e70a9be5e45ef282c96c7d5eb",
+    "split": "test"
+  },
+  {
+    "id": "19980603-02-003",
+    "label": "农业",
+    "title": "五省区首次联手出台区域性粮食购销价格",
+    "hits": [
+      "粮食"
+    ],
+    "body_sha256": "eb216a69351208c9b2f171d20e43c5875d8bc1123065fc449de89783033d0090",
+    "split": "test"
+  },
+  {
+    "id": "19980507-09-005",
+    "label": "农业",
+    "title": "大风起处听潮声———沛县由农业大县走向农业强县",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "640f0481e551c82d6a7bbcd41b9af349ecbeaa2e406ee4bacd582307988aca22",
+    "split": "test"
+  },
+  {
+    "id": "19980507-02-014",
+    "label": "农业",
+    "title": "桃城区农民养猪无风险",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "d4ab5f9aacd138c58ad2be45c22cf71b7968c5197121e1e5d750a24c69a0268d",
+    "split": "train"
+  },
+  {
+    "id": "19980224-03-006",
+    "label": "农业",
+    "title": "争『四强』创『五好』濮阳农村基层组织充满活力",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "106c134d9b4dce4538c69792fc7c874e1936c3f23ef1d51f3d15b70f220b4098",
+    "split": "train"
+  },
+  {
+    "id": "19980401-02-006",
+    "label": "农业",
+    "title": "农业部财政部联合发出通知农村集体资产清产核资工作展开",
+    "hits": [
+      "农业",
+      "农村"
+    ],
+    "body_sha256": "93e226a2a4ea4882668d03655d8c587c4a79462b48bc334b7bd0d232961f86a9",
+    "split": "train"
+  },
+  {
+    "id": "19980217-02-009",
+    "label": "农业",
+    "title": "我国全面推广水稻抛秧技术",
+    "hits": [
+      "水稻"
+    ],
+    "body_sha256": "8ff6423d78961f60789db34f3f9b04f87e2de5016aaa683d5ad24cafe25a4884",
+    "split": "train"
+  },
+  {
+    "id": "19980518-02-004",
+    "label": "农业",
+    "title": "切实减轻农民电费负担新堰承诺农电最高限价",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "c7b86e6da4ec47866183a36ccd42d3e71420bd84ccaeb4581eb70837a4a5ee26",
+    "split": "train"
+  },
+  {
+    "id": "19980306-05-001",
+    "label": "农业",
+    "title": "国家将稳定今年粮食收购价格",
+    "hits": [
+      "粮食"
+    ],
+    "body_sha256": "a1193386d963b33e83b0fe612caf5f62c6577a8eb7f0f6b6d431702c2c719bbd",
+    "split": "train"
+  },
+  {
+    "id": "19980211-02-009",
+    "label": "农业",
+    "title": "张家口畜牧业灾年大发展",
+    "hits": [
+      "畜牧"
+    ],
+    "body_sha256": "e07bb087c142d05e7c9292b3028ab6b86cb2f66da6297333bff0a86d1efca59d",
+    "split": "train"
+  },
+  {
+    "id": "19980526-01-001",
+    "label": "农业",
+    "title": "朱镕基在安徽考察粮食工作时强调",
+    "hits": [
+      "粮食"
+    ],
+    "body_sha256": "b08d0da2cf2f4976d38569ef125268b5a7d878867e25814f24751471b01ec9f1",
+    "split": "train"
+  },
+  {
+    "id": "19980625-02-001",
+    "label": "农业",
+    "title": "温家宝在河北农村考察时指出努力实现今年农业增产增收目标",
+    "hits": [
+      "农业",
+      "农村"
+    ],
+    "body_sha256": "cab641605625db3967ddef13e1419c7ffea208f39d12830dbf0f8326c7b25320",
+    "split": "train"
+  },
+  {
+    "id": "19980117-06-005",
+    "label": "农业",
+    "title": "帮农民进入市场",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "36db396e8ec9a740d8f53b62df281ca290f0d64873515646c15f42e74fb9412c",
+    "split": "train"
+  },
+  {
+    "id": "19980125-02-008",
+    "label": "农业",
+    "title": "信阳大力发展特色农业『龙型』经济带动百万农民走向市场",
+    "hits": [
+      "农业",
+      "农民"
+    ],
+    "body_sha256": "b2eff65eca182d741a3a1b92eab57da5756b6714a22967c63b44463dbc121f4b",
+    "split": "train"
+  },
+  {
+    "id": "19980410-02-001",
+    "label": "农业",
+    "title": "湖南三万下岗职工开发农业",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "ca2b2023d88fd71e9abb6d273e67326f3fa85cebd1e8ce91724182b48dfb309a",
+    "split": "train"
+  },
+  {
+    "id": "19980508-04-001",
+    "label": "农业",
+    "title": "喜见农民拆神庙",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "39936c630d7a12531f0d0fc9f0436e86532f9693d158af3389055fae86861b17",
+    "split": "train"
+  },
+  {
+    "id": "19980125-09-001",
+    "label": "农业",
+    "title": "挑战与机遇同在——访农业部副部长万宝瑞（附图片１张）",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "7a9d6d4850d0f8441fad9b2f58ff0ce94585d3018c81626409176292ed0f6727",
+    "split": "train"
+  },
+  {
+    "id": "19980507-02-011",
+    "label": "农业",
+    "title": "农民种地公司浇水长葛“水公司”销售商品水",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "7f63015c97ee8c2dc7b1bf21181cc4d1d7b1293c400ba01fa8a9de02bf396203",
+    "split": "train"
+  },
+  {
+    "id": "19980103-01-001",
+    "label": "农业",
+    "title": "宁夏：农业产业化铺筑致富路",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "167aa6c40605e6414587caa3bfaa399bd77950a8d579124dbfd7ff2d15d85a28",
+    "split": "train"
+  },
+  {
+    "id": "19980402-09-009",
+    "label": "农业",
+    "title": "山西五台农民超越温饱线",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "c2b96fecade88d285c21be4661417d4fa26524a64d61d9d71537904137103e51",
+    "split": "train"
+  },
+  {
+    "id": "19980209-01-002",
+    "label": "农业",
+    "title": "江西科教兴农惠万家农民年均纯收入增加二百元以上",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "8d16beb23a57452437f752e8d579f34cd53493ef0a2c5ebf0ddfd738948d6180",
+    "split": "train"
+  },
+  {
+    "id": "19980516-05-004",
+    "label": "农业",
+    "title": "评介《西方农业经济思想》",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "5274930502719e6c39cabef1aaba49f227fbee9c63b15d37d8c7389676410d2c",
+    "split": "train"
+  },
+  {
+    "id": "19980420-01-006",
+    "label": "农业",
+    "title": "选准发展项目加大投资力度四川农业产业化试点初见成效",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "1ae4eea1fdf36800566c957673dd12cab651dc9a71935001a3e6cff27a9eb553",
+    "split": "train"
+  },
+  {
+    "id": "19980511-05-002",
+    "label": "农业",
+    "title": "周期短见效快效益高甘肃渭源发展高效生态农业",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "578aa7fd0d11ffe63798a4377472d18896bc06c036291f80301db4a2b87fb2c1",
+    "split": "train"
+  },
+  {
+    "id": "19980311-05-004",
+    "label": "农业",
+    "title": "农业是稳民心安天下的产业",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "27224dbd7a1a55078438c3f3d1d4b2983aa51c056817b8edd88352214299137d",
+    "split": "train"
+  },
+  {
+    "id": "19980407-02-014",
+    "label": "农业",
+    "title": "福建农村三年内户户通电",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "633adc0d997098f75fbae4e39b10e001184674cc032d13481cd4cbfa106013f5",
+    "split": "train"
+  },
+  {
+    "id": "19980125-09-008",
+    "label": "农业",
+    "title": "农业部命名第二批全国乡镇企业示范区",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "ceeb8641f0eef79877468f281172684ba142395e552f0871921af15b37dda526",
+    "split": "train"
+  },
+  {
+    "id": "19980517-01-002",
+    "label": "农业",
+    "title": "造地修田治水改善生态环境甘肃农业抗灾力增强",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "07f537aab93f124cd6d5713371b44ae743d28fbed077a66685b5f0b055126507",
+    "split": "train"
+  },
+  {
+    "id": "19980505-07-011",
+    "label": "农业",
+    "title": "泰国农民焚野草交通事故频",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "70ccce07e4becd5dab13d717644ff05fab719fd05860d7cdf1cae885a8e7f8c0",
+    "split": "train"
+  },
+  {
+    "id": "19980305-09-007",
+    "label": "农业",
+    "title": "农民与教授攀“亲”",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "befb4f535bfa383273f1e26255b2bcda95e4219c0fd3d0b0fed9040f801c25a1",
+    "split": "train"
+  },
+  {
+    "id": "19980317-05-012",
+    "label": "农业",
+    "title": "切实保护好农民积极性",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "7582fe12e20ee4792d6f57b451df14d353a074d0ccb080299bc91730b037be44",
+    "split": "train"
+  },
+  {
+    "id": "19980514-02-003",
+    "label": "农业",
+    "title": "抓基地促布局以龙头带加工招远力促农业产业化发展",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "ffbbe308d853379e97593ca846472536b7460525cd7020d1c54cd8c8d2056fe2",
+    "split": "train"
+  },
+  {
+    "id": "19980312-03-005",
+    "label": "农业",
+    "title": "开发农业大有作为——苏艳霞代表寄语下岗兄弟姐妹",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "52f11d8fe49612f54068dc836ee134478dbe5f2b8a539095d7c62973bfd57c97",
+    "split": "train"
+  },
+  {
+    "id": "19980630-05-003",
+    "label": "农业",
+    "title": "为科教部门和企业牵线搭桥全国农村科教企联姻研讨会举行",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "3782a0963f4949bb8326eb0da13bf9a1cb8d4e60ff1fa432cb20c32d667e8640",
+    "split": "train"
+  },
+  {
+    "id": "19980412-01-005",
+    "label": "农业",
+    "title": "山西加强农村基层党建抓根本对农村党支书进行邓小平理论系统培训",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "9b85a62e90e6620dfb2719ae14b1e56e7d46451458566b14ac81ded2b0e217f9",
+    "split": "train"
+  },
+  {
+    "id": "19980125-02-010",
+    "label": "农业",
+    "title": "促流通抓转化包头稳定粮食生产",
+    "hits": [
+      "粮食"
+    ],
+    "body_sha256": "60b38b69c0faacc86af3b9012e7c4951686ef1cc861ef03accec6a23c8094be6",
+    "split": "train"
+  },
+  {
+    "id": "19980211-01-009",
+    "label": "农业",
+    "title": "吉林农业综合开发结硕果改造中低产田近千万亩，增产粮食１６亿公斤",
+    "hits": [
+      "农业",
+      "粮食"
+    ],
+    "body_sha256": "20184c6fec0c9031ccc8ce9f2d2e26a28c92fc3e9125311a305a900087fb948d",
+    "split": "train"
+  },
+  {
+    "id": "19980209-05-009",
+    "label": "农业",
+    "title": "冬小麦旺长怎么办专家建议：推广壮丰安控制旺长",
+    "hits": [
+      "小麦"
+    ],
+    "body_sha256": "8830b6012683548b51d1cf914a9cb89d9ce922dfbe2fe7618c376daf5c4edadc",
+    "split": "train"
+  },
+  {
+    "id": "19980424-01-001",
+    "label": "农业",
+    "title": "广东狠抓农业增长势头好吉林整体推进农业产业化",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "69120ff313b9298bcb36d735276dca408ef6a8cec860dde994c5ed15dcff2b7e",
+    "split": "train"
+  },
+  {
+    "id": "19980122-02-004",
+    "label": "农业",
+    "title": "温家宝在湖北农村调研时强调坚定信心继续发展农业好形势",
+    "hits": [
+      "农业",
+      "农村"
+    ],
+    "body_sha256": "b9459bc3e5b135ddccb90a84b264c42a058b91602b89de3a238fd383cc594169",
+    "split": "train"
+  },
+  {
+    "id": "19980101-02-007",
+    "label": "农业",
+    "title": "温家宝在贵州农村考察时指出动员全社会力量打好扶贫攻坚战",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "0b45eb2a526a71032fee8802eae3ec9d06996cbe72b2d2a8a8aa7b54a7ef667d",
+    "split": "train"
+  },
+  {
+    "id": "19980330-09-001",
+    "label": "农业",
+    "title": "醒来吧，农村消费者",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "acf74e157f153df456f78b835b9b26114543aff856843cbcd20f98b0e934f982",
+    "split": "train"
+  },
+  {
+    "id": "19980409-09-001",
+    "label": "农业",
+    "title": "今年农业和农村经济展望",
+    "hits": [
+      "农业",
+      "农村"
+    ],
+    "body_sha256": "acd934536c630f6733cfbf5c3de79409f4a0463463fdaa2d146827b3b0212679",
+    "split": "train"
+  },
+  {
+    "id": "19980326-09-002",
+    "label": "农业",
+    "title": "不仅仅为了农民……－－－吉林华龙实业集团发展撷要",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "9684e137a2a0e28bc96f6aa8eceac3dd1dcb9ad811707f3a1420cd90b99044c3",
+    "split": "train"
+  },
+  {
+    "id": "19980612-01-001",
+    "label": "农业",
+    "title": "河北：农村基层民主管理迈新步",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "173f9e7a98bec8b9c392e2b9e544307d976c557e2e2303562bfc0a8ec5453362",
+    "split": "train"
+  },
+  {
+    "id": "19980304-10-002",
+    "label": "农业",
+    "title": "农民家中存棉多，原因何在？",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "e5511d0b6c55a7eb89b2bbb448c7b7aa87ece7926b7b6b6d00097664826324de",
+    "split": "train"
+  },
+  {
+    "id": "19980120-02-001",
+    "label": "农业",
+    "title": "第一次全国农业普查快速汇总结果公报（农村镇区规模及其社会经济状况）",
+    "hits": [
+      "农业",
+      "农村"
+    ],
+    "body_sha256": "e45c848cce67206e5a2127844756ae030b738c22135cb23353c10d5d646ed476",
+    "split": "train"
+  },
+  {
+    "id": "19980121-12-002",
+    "label": "农业",
+    "title": "到农村去……",
+    "hits": [
+      "农村"
+    ],
+    "body_sha256": "7a06833925010c2ceaf61ce823d02f3802282e555f76b441cbd59df55b1729ba",
+    "split": "train"
+  },
+  {
+    "id": "19980622-09-006",
+    "label": "农业",
+    "title": "农民上哪儿买国债？",
+    "hits": [
+      "农民"
+    ],
+    "body_sha256": "16bfd97107fd7c093610fb248714163b079791d28695d8b37e84476a03909c2c",
+    "split": "train"
+  },
+  {
+    "id": "19980520-05-009",
+    "label": "农业",
+    "title": "向旱地农业要粮食要效益洛阳建成旱农综合实验基地",
+    "hits": [
+      "农业",
+      "粮食"
+    ],
+    "body_sha256": "b3f16780c1f4ed7f6af9dba839e9eab46e82477c5efc449bf988af46e30992da",
+    "split": "train"
+  },
+  {
+    "id": "19980311-05-003",
+    "label": "农业",
+    "title": "加快农业产业化进程",
+    "hits": [
+      "农业"
+    ],
+    "body_sha256": "576df82b3166f3e95fbb4e23ebcb0737155ba725fac12afaaebb4b6253eb618f",
+    "split": "train"
+  },
+  {
+    "id": "19980313-05-004",
+    "label": "法治",
+    "title": "依法治国是治国之本（附图片１张）",
+    "hits": [
+      "法治"
+    ],
+    "body_sha256": "f6352c7bff9864ea9319035ce658cac8de8853b48eb2c72a25b76700d88a532a",
+    "split": "test"
+  },
+  {
+    "id": "19980622-03-002",
+    "label": "法治",
+    "title": "最高检察院重视群众控告申诉三起案件得到依法公正处理",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "2260b607cb186c32a037793b91dc7cf6080ab9d4e8a659d55ec53f83cd509c68",
+    "split": "test"
+  },
+  {
+    "id": "19980217-05-001",
+    "label": "法治",
+    "title": "防震减灾步入法制轨道宣传贯彻《防震减灾法》电视电话会议举行",
+    "hits": [
+      "法制"
+    ],
+    "body_sha256": "264979ad89081942b7d99f90616c7e3c80233ac2114576656de656ca687ffaed",
+    "split": "test"
+  },
+  {
+    "id": "19980122-03-003",
+    "label": "法治",
+    "title": "公安部呼吁社会各界采取有力措施预防特大火灾",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "8a4e4c4705daca2364586e52c2a8eb13dae9388cf3f8c3235ae58bda8cc03b65",
+    "split": "test"
+  },
+  {
+    "id": "19980429-03-006",
+    "label": "法治",
+    "title": "公安部表彰优秀公安局和优秀人民警察",
+    "hits": [
+      "公安",
+      "民警"
+    ],
+    "body_sha256": "e5e71595818a581bfbaa85a7623df5125874d2a90b690e3227715d0e70f88f8c",
+    "split": "test"
+  },
+  {
+    "id": "19980624-03-001",
+    "label": "法治",
+    "title": "人大常委会分组审议两部法律草案",
+    "hits": [
+      "法律"
+    ],
+    "body_sha256": "5b9ff22446db464f3ee3b11ff410a23bad3b12f861a6da491bd0e80fec4747a8",
+    "split": "test"
+  },
+  {
+    "id": "19980428-03-006",
+    "label": "法治",
+    "title": "筑起法律的屏障",
+    "hits": [
+      "法律"
+    ],
+    "body_sha256": "775ab13845d840386a567f62e1a91660afea399ce107be8c280b44a979655604",
+    "split": "test"
+  },
+  {
+    "id": "19980329-02-012",
+    "label": "法治",
+    "title": "澳门政府计划年内成立终审法院",
+    "hits": [
+      "法院"
+    ],
+    "body_sha256": "bc35bc432182392f1962358d65e0f1b767c0963f06714ad6662b4c7602480c8d",
+    "split": "test"
+  },
+  {
+    "id": "19980417-06-008",
+    "label": "法治",
+    "title": "阿盟重申在中立国审判洛克比案嫌犯",
+    "hits": [
+      "审判"
+    ],
+    "body_sha256": "ab68cc55c8242b64118742f1dfbf12bd3fc6d963e0308da4d532f43eb248129b",
+    "split": "test"
+  },
+  {
+    "id": "19980310-04-005",
+    "label": "法治",
+    "title": "李鹏会见荷兰司法大臣",
+    "hits": [
+      "司法"
+    ],
+    "body_sha256": "08b491d8129e44228b86ff1eff6ecec2e7aafb12191cad0ede22efc27d0fc4fc",
+    "split": "test"
+  },
+  {
+    "id": "19980331-09-003",
+    "label": "法治",
+    "title": "谁来救助危难之中的民警？",
+    "hits": [
+      "民警"
+    ],
+    "body_sha256": "4b10b72a31bd7e336a1886358b5f5c6a4b9dc16ae23cc51d55c197ec6363219e",
+    "split": "test"
+  },
+  {
+    "id": "19980204-03-003",
+    "label": "法治",
+    "title": "巡警新风暖人心－－记琼山市公安局巡警大队",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "73837ac5e8cf14dc3c4ec74eeb792fd19a8f2e6660c69f9b1107ea45b685b0ef",
+    "split": "test"
+  },
+  {
+    "id": "19980527-04-010",
+    "label": "法治",
+    "title": "贾春旺就当前公安机关自查自纠和执法检查提出",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "8cc72810fa7288074d2b189690576af9cc37cd4c0a135ef99d5239c24dedba55",
+    "split": "train"
+  },
+  {
+    "id": "19980211-03-004",
+    "label": "法治",
+    "title": "公安部部署加强队伍建设",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "f0ad54c2d0aa0c89608d17ceeb44066872bf34f4ac9236e4ee3d02a7a1bff6b5",
+    "split": "train"
+  },
+  {
+    "id": "19980515-07-006",
+    "label": "法治",
+    "title": "俄罗斯饮假酒犯罪增一倍打假酒时日需三年",
+    "hits": [
+      "犯罪"
+    ],
+    "body_sha256": "47e6f7ebd60cd391fd9eaa7437c6ec690c70314553fc1b388739634dd8235b39",
+    "split": "train"
+  },
+  {
+    "id": "19980516-02-007",
+    "label": "法治",
+    "title": "公安部要求各地公安机关集中力量严厉打击爆炸物品违法犯罪活动",
+    "hits": [
+      "公安",
+      "犯罪"
+    ],
+    "body_sha256": "23d6ce39b1be6db55417030a3295e04e0cc2002f029593dc2270989a00e2590e",
+    "split": "train"
+  },
+  {
+    "id": "19980522-03-002",
+    "label": "法治",
+    "title": "为了和谐与稳定－－－中国律师为劳动和社会保障提供法律服务掠影",
+    "hits": [
+      "法律",
+      "律师"
+    ],
+    "body_sha256": "9add1abd621ca64bde554cf74af97d1c7bc620897ceb6677541ce3ecd9d8d0b8",
+    "split": "train"
+  },
+  {
+    "id": "19980224-03-004",
+    "label": "法治",
+    "title": "走千家进万户排隐患保安全北京强化法律保障",
+    "hits": [
+      "法律"
+    ],
+    "body_sha256": "918d6a1cc4cf726bbc4eee698433887f28bc6a84c4e21d61849ddde1c71622f9",
+    "split": "train"
+  },
+  {
+    "id": "19980604-03-006",
+    "label": "法治",
+    "title": "以落实责任为核心以群众满意为根本常州公安机关推进派出所改革",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "a26596b762fd3aa519c79740f121b5ba59d0c6b0f3ccfb1026b848e5e42d5d2f",
+    "split": "train"
+  },
+  {
+    "id": "19980210-09-001",
+    "label": "法治",
+    "title": "田野沐新风——湖北黄梅县水月庵依法治村纪事",
+    "hits": [
+      "法治"
+    ],
+    "body_sha256": "51af8199a08d5ce74e3a9b01b6ad41160599f73b8afbacd5c8556b9c80d46f94",
+    "split": "train"
+  },
+  {
+    "id": "19980323-03-002",
+    "label": "法治",
+    "title": "法官情慈母心———记全国法院模范尚秀云",
+    "hits": [
+      "法院"
+    ],
+    "body_sha256": "364f8b4b4f92e6e0101d1056241782204583f5dcd3a9d90697947cc816177d36",
+    "split": "train"
+  },
+  {
+    "id": "19980618-06-010",
+    "label": "法治",
+    "title": "就建立国际刑事法院问题我强调尊重国家主权",
+    "hits": [
+      "法院",
+      "刑事"
+    ],
+    "body_sha256": "9b2cef10189f3a03549107c96a12be8e0c3412f952c3a13dc6e0f395423bbb2f",
+    "split": "train"
+  },
+  {
+    "id": "19980106-03-005",
+    "label": "法治",
+    "title": "广东群众普遍反映——民警态度变好了",
+    "hits": [
+      "民警"
+    ],
+    "body_sha256": "3b8d6c261a2c61967e6149f0b4e7489b2f435a89cfeb6d117c3de9398bbda4f7",
+    "split": "train"
+  },
+  {
+    "id": "19980108-10-004",
+    "label": "法治",
+    "title": "提高领导干部的法律素质",
+    "hits": [
+      "法律"
+    ],
+    "body_sha256": "638dcf708db83fcc814b62280dc1222b5005e43858058f3efa411156904e00a4",
+    "split": "train"
+  },
+  {
+    "id": "19980314-04-001",
+    "label": "法治",
+    "title": "积极推进民主法制进程人大常委会法工委负责人答中外记者问",
+    "hits": [
+      "法制"
+    ],
+    "body_sha256": "2bbf1363c654c6fa91e317e5b2bba673d9f40bc3773406985a241166d7126509",
+    "split": "train"
+  },
+  {
+    "id": "19980316-06-010",
+    "label": "法治",
+    "title": "美承认对意缆车事件负责意受害者家属反对在美审判肇事者",
+    "hits": [
+      "审判"
+    ],
+    "body_sha256": "96c82d4f307fc47a3694d8fe15848b7e4b5eb23052460b69ad69cf76a8c4a5b0",
+    "split": "train"
+  },
+  {
+    "id": "19980523-02-001",
+    "label": "法治",
+    "title": "倾听群众呼声督办疑难案件江西设立公安厅局长接待日",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "b8f93bb6b1c11086346ca7cd7df0b7189a4510d0e26d5dba0baf522e4f93eef3",
+    "split": "train"
+  },
+  {
+    "id": "19980206-08-002",
+    "label": "法治",
+    "title": "赛道穿过公园法院驳回起诉",
+    "hits": [
+      "法院"
+    ],
+    "body_sha256": "1073a8ee3b552a61e9aa6d22147de4e625ed92ef988705630dfa489f56e718e0",
+    "split": "train"
+  },
+  {
+    "id": "19980507-01-003",
+    "label": "法治",
+    "title": "李鹏会见国际检察官联合会执委时指出中国已确立依法治国基本方略",
+    "hits": [
+      "检察",
+      "法治"
+    ],
+    "body_sha256": "ba7a60ea43fb82bac02fc4de5cc97c84f2b33648f76f5fc1d26f4b271a91d8d4",
+    "split": "train"
+  },
+  {
+    "id": "19980116-03-001",
+    "label": "法治",
+    "title": "我国积极推进监狱法制建设",
+    "hits": [
+      "法制"
+    ],
+    "body_sha256": "86a5e6c72e81c689bcc093adbb6c439dc128f2fe3d5888f82dd4a521b15edde6",
+    "split": "train"
+  },
+  {
+    "id": "19980415-06-013",
+    "label": "法治",
+    "title": "利法院审理美空袭案",
+    "hits": [
+      "法院"
+    ],
+    "body_sha256": "c492a90f37dc4fa754ebedcbddd82e0d1ab2c98b52ba1ce8ae981f2d8bf9ff6f",
+    "split": "train"
+  },
+  {
+    "id": "19980416-03-009",
+    "label": "法治",
+    "title": "辽宁省检察院强调处理谭安州一案绝不护短",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "5851a8caac7104d735c3f1f34a42a7857db8ea6cd89ff27f67d91e72f35c0f14",
+    "split": "train"
+  },
+  {
+    "id": "19980210-03-001",
+    "label": "法治",
+    "title": "强化职能倾心为民公安部重视查办督办来信来访",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "18f4f8cde1a7dc5144dc6583d060cd9275f920076276e15658b9c88c0e29e95d",
+    "split": "train"
+  },
+  {
+    "id": "19980114-03-003",
+    "label": "法治",
+    "title": "全国检察机关表彰先进",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "50538cb61929e560d33e2e76a930abd03f7a8312c0b5e0d6e5c037d1cc3b69fc",
+    "split": "train"
+  },
+  {
+    "id": "19980310-07-004",
+    "label": "法治",
+    "title": "基因疗法治白血病",
+    "hits": [
+      "法治"
+    ],
+    "body_sha256": "7b9e9e335f598ee15c20ce9270b5b34266807651ddb429446587d4d500b9fa8c",
+    "split": "train"
+  },
+  {
+    "id": "19980317-07-001",
+    "label": "法治",
+    "title": "俄内务部长批准各项计划严厉打击经济犯罪",
+    "hits": [
+      "犯罪"
+    ],
+    "body_sha256": "a26af7b372b12a59ff8785ec0ad6bff5ddee405fcf3ea6a5d2753d5b7637675f",
+    "split": "train"
+  },
+  {
+    "id": "19980307-03-004",
+    "label": "法治",
+    "title": "大力推进依法治国进程——访人大代表王建功（附图片１张）",
+    "hits": [
+      "法治"
+    ],
+    "body_sha256": "aa029b5c3d25b97914246fdc9119d3ea06d8eb11aa5192abd13c227e1730ec82",
+    "split": "train"
+  },
+  {
+    "id": "19980613-08-003",
+    "label": "法治",
+    "title": "塑公安形象保一方平安（附图片３张）",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "a1bfd0380ee9663322f7c72633f8f2058b5250c41000996885e19f1f3e64aadd",
+    "split": "train"
+  },
+  {
+    "id": "19980106-11-001",
+    "label": "法治",
+    "title": "文明风景线——记长沙市公安局交警支队（附图片１张）",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "b4839b7b57ae7cf83f7ee39518d7de72a29934535b0369e84f65ccba85a76d96",
+    "split": "train"
+  },
+  {
+    "id": "19980107-06-012",
+    "label": "法治",
+    "title": "阿拉伯内政部长理事会声明呼吁加强打击恐怖犯罪",
+    "hits": [
+      "犯罪"
+    ],
+    "body_sha256": "5922e82693041ccb7e714a8227e9d9593101322ff474e9c839731d206c5229a9",
+    "split": "train"
+  },
+  {
+    "id": "19980106-11-004",
+    "label": "法治",
+    "title": "大墙内的法制课",
+    "hits": [
+      "法制"
+    ],
+    "body_sha256": "29025273346f155a1dac51f6c13c93ad6f7c0a760196a0095d0dd2e37f2d15b2",
+    "split": "train"
+  },
+  {
+    "id": "19980410-03-004",
+    "label": "法治",
+    "title": "黑山县检察长交通肇事被捕",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "cd1a5f0ed1276ea818c37b80839b24159b99002ed4b8220092a2964d26f1826e",
+    "split": "train"
+  },
+  {
+    "id": "19980531-04-007",
+    "label": "法治",
+    "title": "天津第一中级人民法院一案公开审理拒绝记者旁听",
+    "hits": [
+      "法院"
+    ],
+    "body_sha256": "6c14c2eb5d49286c2b4d21292903d095e1161fd7f054a8fbc1f761c3fb79325d",
+    "split": "train"
+  },
+  {
+    "id": "19980415-06-007",
+    "label": "法治",
+    "title": "韩将修改有碍与朝交流的法律",
+    "hits": [
+      "法律"
+    ],
+    "body_sha256": "dac1bc849f16fe1df77375d4aa2df25f9883d5a0a9c9850766f0970ff5e9d90d",
+    "split": "train"
+  },
+  {
+    "id": "19980325-09-007",
+    "label": "法治",
+    "title": "长泰县公安部门设接待日",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "f46fd7894e313183f23294ca707e7262d6958ffec9fd3c6d91dcc81118bcf0a4",
+    "split": "train"
+  },
+  {
+    "id": "19980209-03-003",
+    "label": "法治",
+    "title": "突出环境综合整治提高城市管理水平海口强化依法治市",
+    "hits": [
+      "法治"
+    ],
+    "body_sha256": "af375d852f0a3a6aa423d3b3855a9b52a26f70af3a2c8fc0e097e58cf1227fc5",
+    "split": "train"
+  },
+  {
+    "id": "19980213-03-005",
+    "label": "法治",
+    "title": "抓住重点标本兼治司法行政系统加强反腐败",
+    "hits": [
+      "司法"
+    ],
+    "body_sha256": "eb147c3710e718e05b5fa3910a48ec4e2e975ffd3ab9713f8bf33ee718e7a9bb",
+    "split": "train"
+  },
+  {
+    "id": "19980514-03-008",
+    "label": "法治",
+    "title": "哈尔滨公安局着力提高执法水平",
+    "hits": [
+      "公安"
+    ],
+    "body_sha256": "fde3c7daa81f4c5ffdd2e64889de5e7241c7a936672e625d19a33adaec459ab9",
+    "split": "train"
+  },
+  {
+    "id": "19980316-04-013",
+    "label": "法治",
+    "title": "重庆成立消费者权益保护合议庭首例诉讼案一审判决消费者获赔５万余元",
+    "hits": [
+      "审判"
+    ],
+    "body_sha256": "ffa78122c3a7b2d765f6328a3218f8d6a66786fe03a8021878fd98dc0b211574",
+    "split": "train"
+  },
+  {
+    "id": "19980306-02-005",
+    "label": "法治",
+    "title": "民主和法制建设得到加强",
+    "hits": [
+      "法制"
+    ],
+    "body_sha256": "5f5ed850e657991eb4c6c27568628e551725a01f6958578e26f9c20fc70e50a6",
+    "split": "train"
+  },
+  {
+    "id": "19980508-03-002",
+    "label": "法治",
+    "title": "深入贯彻执行律师法推进依法治国的进程",
+    "hits": [
+      "法治",
+      "律师"
+    ],
+    "body_sha256": "018a3d8094201ffda81e997ad6cb5e9bcd2ac917a6d24f10fad96e29c72b4c14",
+    "split": "train"
+  },
+  {
+    "id": "19980623-03-002",
+    "label": "法治",
+    "title": "人大法律委员会报告两部法律草案审议结果",
+    "hits": [
+      "法律"
+    ],
+    "body_sha256": "bbad810a4f1a29518bbb6f66ee2db9afeaa585caaf4c5f199d46b5af595fafb3",
+    "split": "train"
+  },
+  {
+    "id": "19980510-02-007",
+    "label": "法治",
+    "title": "首批部级文明律师事务所受表彰",
+    "hits": [
+      "律师"
+    ],
+    "body_sha256": "6895d762e89e647c4a01cd49b3a64f8060b0296b36192f4b05920ba17057a986",
+    "split": "train"
+  },
+  {
+    "id": "19980211-09-003",
+    "label": "法治",
+    "title": "１９９７年１１月１１日，内蒙古高级人民法院开庭再审此案。",
+    "hits": [
+      "法院"
+    ],
+    "body_sha256": "15559f12c87bcd152c2413da81b58bc2965bb84f610ef53c2e08f69186ed53e1",
+    "split": "train"
+  },
+  {
+    "id": "19980311-02-003",
+    "label": "法治",
+    "title": "最高人民检察院检察长张思卿在九届人大一次会议上的报告（摘要）",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "fb29329891fc4fef77d8387a02e8a9fe67316de7a09594953a7f18af2ea8a3a6",
+    "split": "train"
+  },
+  {
+    "id": "19980614-04-010",
+    "label": "法治",
+    "title": "徇情导致一桩错案县检察长知过即改",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "aa1f94275638d1777702f70d0226e061496a6b9eaaf8485eef52067dab90c55f",
+    "split": "train"
+  },
+  {
+    "id": "19980214-02-012",
+    "label": "法治",
+    "title": "司法部为一批厅局长授警衔",
+    "hits": [
+      "司法"
+    ],
+    "body_sha256": "37156cba3b3bfc225d98c2c554bd71129d470bd93e26805ba343f2d369539c0b",
+    "split": "train"
+  },
+  {
+    "id": "19980602-11-008",
+    "label": "法治",
+    "title": "检察热线绵阳检察深挖“蛀虫”",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "ba5279c3951bc4eac636c3dc6fa5d1ff504a39a3400e94640fd2016a89b97f1d",
+    "split": "train"
+  },
+  {
+    "id": "19980610-03-005",
+    "label": "法治",
+    "title": "最高检察院通知要求检察机关自觉接受全国人大代表监督",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "380953eafa6ff62e37fedcb4072ba82e04f6957fe1ef0979b5156c3d281de9ae",
+    "split": "train"
+  },
+  {
+    "id": "19980612-04-007",
+    "label": "法治",
+    "title": "八位人大副委员长、高检检察长参观禁毒展览",
+    "hits": [
+      "检察"
+    ],
+    "body_sha256": "eb4bc84e2d64c33de543d1405e38f903922218d124b6df89d67bb30a642a079e",
+    "split": "train"
+  }
+]

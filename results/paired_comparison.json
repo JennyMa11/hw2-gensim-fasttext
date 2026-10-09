@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "sample_size": 96,
+  "pretraining_only_correct": 56,
+  "scratch_only_correct": 7,
+  "accuracy_difference": 0.5104166666666666,
+  "paired_bootstrap_accuracy_difference_ci95": [
+    0.3854166666666667,
+    0.6354166666666666
+  ],
+  "exact_mcnemar_pvalue": 1.363671398024735e-10,
+  "repeat_predictions_identical": true,
+  "bootstrap_replicates": 10000
+}

@@ -1,0 +1,41 @@
+{
+  "source": "https://raw.githubusercontent.com/chenhui-bupt/PeopleDaily1998/4020ecc558c554c6f3c9bd81a606d2197e28e628/199801.zip",
+  "archive_sha256": "17474bbf2b360921f2eae0089fd83e22601e5a0649943c3f59403650997b4ed2",
+  "months": [
+    "199801/199801.txt",
+    "199801/199802.txt",
+    "199801/199803.txt",
+    "199801/199804.txt",
+    "199801/199805.txt",
+    "199801/199806.txt"
+  ],
+  "raw_articles": 18647,
+  "eligible_unique_articles": 16026,
+  "parsing": {
+    "parsed_lines": 123882,
+    "multiple_slashes": 1334,
+    "unparsed_tokens": 1,
+    "short_body_articles": 2620,
+    "missing_title": 1,
+    "duplicate_body_articles": 1,
+    "cross_topic_candidates": 164
+  },
+  "candidates": {
+    "体育": 340,
+    "金融": 386,
+    "教育": 290,
+    "文化": 321,
+    "科技": 308,
+    "医疗": 116,
+    "农业": 340,
+    "法治": 215
+  },
+  "selected_articles": 480,
+  "excluded_pretraining_test_articles": 96,
+  "representation_articles": 15930,
+  "representation_sentences": 289418,
+  "representation_tokens": 6007865,
+  "raw_vocabulary": 136907,
+  "vocabulary_min_count_3": 58854,
+  "sentences_sha256": "d4fa7cda4b2c42195378ad8ff086de41ff957d4c43969307b925633f755e376e"
+}

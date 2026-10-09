@@ -1,0 +1,13 @@
+{'epoch': 100, 'seed': 42, 'method': 'scratch', 'accuracy': 0.8229166666666666, 'macro_f1': 0.824659090909091, 'seconds': 1.2485035001300275}
+{'epoch': 100, 'seed': 42, 'method': 'fasttext', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8230745341614907, 'seconds': 2.479554958175868}
+{'epoch': 100, 'seed': 43, 'method': 'scratch', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8245581230363839, 'seconds': 1.1365615418180823}
+{'epoch': 100, 'seed': 43, 'method': 'fasttext', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8230745341614907, 'seconds': 2.453516459092498}
+{'epoch': 100, 'seed': 44, 'method': 'scratch', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8261655011655011, 'seconds': 1.1591254170052707}
+{'epoch': 100, 'seed': 44, 'method': 'fasttext', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8230745341614907, 'seconds': 2.4401061669923365}
+{'epoch': 200, 'seed': 42, 'method': 'scratch', 'accuracy': 0.8541666666666666, 'macro_f1': 0.8537532938076415, 'seconds': 2.233604958979413}
+{'epoch': 200, 'seed': 42, 'method': 'fasttext', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8230745341614907, 'seconds': 4.093928833026439}
+{'epoch': 200, 'seed': 43, 'method': 'scratch', 'accuracy': 0.8645833333333334, 'macro_f1': 0.8657608695652174, 'seconds': 2.24671975011006}
+{'epoch': 200, 'seed': 43, 'method': 'fasttext', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8230745341614907, 'seconds': 4.087190583115444}
+{'epoch': 200, 'seed': 44, 'method': 'scratch', 'accuracy': 0.8645833333333334, 'macro_f1': 0.865116930171278, 'seconds': 2.2245337089989334}
+{'epoch': 200, 'seed': 44, 'method': 'fasttext', 'accuracy': 0.8229166666666666, 'macro_f1': 0.8230745341614907, 'seconds': 4.148848624899983}
+Post-hoc predictions verified.

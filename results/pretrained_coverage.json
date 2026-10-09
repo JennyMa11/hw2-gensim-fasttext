@@ -1,0 +1,18 @@
+{
+  "train": {
+    "tokens": 111896,
+    "covered_tokens": 109946,
+    "token_coverage": 0.9825731035961964,
+    "types": 15640,
+    "covered_types": 13805,
+    "type_coverage": 0.8826726342710998
+  },
+  "test": {
+    "tokens": 27628,
+    "covered_tokens": 26965,
+    "token_coverage": 0.9760026060518314,
+    "types": 6339,
+    "covered_types": 5807,
+    "type_coverage": 0.9160750907083136
+  }
+}

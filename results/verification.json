@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "checked_runs": 34,
+  "checked_predictions": 2544,
+  "exported_vec_sha256": {
+    "word2vec": "1798b0349824a49f3d9c66ad0dc6ff9329d55d377490c444fff14824ed72e3ec",
+    "fasttext": "af1374f7b5b8c22280df5d384cbbcf849c88e05484cddf1ea083b6ec1bdb578f"
+  },
+  "checks": [
+    "archive/corpus SHA256",
+    "480 unique article IDs and body hashes",
+    "balanced article splits",
+    "test articles completely absent from representation corpus",
+    "nested 2/4/8 splits and 12/24/48 subsets",
+    "all saved accuracy, macro F1, and confusion matrices recomputed from predictions",
+    "exported vector dimensions/counts/checksums",
+    "saved classifier reload reproduces all 96 test predictions"
+  ]
+}
